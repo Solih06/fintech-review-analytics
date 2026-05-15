@@ -39,15 +39,18 @@ fintech-review-analytics/
    ```bash
 git clone [https://github.com/Solih06/fintech-review-analytics.git](https://github.com/Solih06/fintech-review-analytics.git)
 cd fintech-review-analytics
+   ```
+   ```
 2. ## Set up Virtual Environment
    On Windows Powershell/CMD
    ```bash
    python -m venv venv
    .\venv\Scripts\activate
+   ```
 3. ## Install dependencies
    ```bash
    pip install -r requirements.txt
-
+   ```
 ## 🚀 Execution Pipeline
 
 The project pipeline is split into distinct, modular scripts executed in the following order:
@@ -81,5 +84,5 @@ Aggregates the processed metrics and exports analytical plots reflecting cross-p
 
 ## 📊 Visualizations
 Sentiment Distribution across Fintech Apps
-![Sentiment Distribution](notebooks/sentiment_distribution.png)
 The following chart shows the comparative breakdown of user sentiment across the evaluated banking applications (CBE, BOA, and Dashen Bank) using 1,500 processed reviews:
+![Sentiment Distribution](notebooks/sentiment_distribution.png)
