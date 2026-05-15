@@ -37,8 +37,8 @@ fintech-review-analytics/
    
 1. ## Clone the repository:
    ```bash
-git clone [https://github.com/Solih06/fintech-review-analytics.git](https://github.com/Solih06/fintech-review-analytics.git)
-cd fintech-review-analytics
+   git clone [https://github.com/Solih06/fintech-review-analytics.git](https://github.com/Solih06/fintech-review-analytics.git)
+   cd fintech-review-analytics
    
 2. ## Set up Virtual Environment
    On Windows Powershell/CMD
@@ -82,6 +82,6 @@ Aggregates the processed metrics and exports analytical plots reflecting cross-p
     Data Visualization: Matplotlib, Seaborn
 
 ## 📊 Visualizations
-Sentiment Distribution across Fintech Apps
+Sentiment Distribution across Fintech Apps. 
 The following chart shows the comparative breakdown of user sentiment across the evaluated banking applications (CBE, BOA, and Dashen Bank) using 1,500 processed reviews:
 ![Sentiment Distribution](notebooks/sentiment_distribution.png)
