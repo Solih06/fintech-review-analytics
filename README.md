@@ -39,8 +39,7 @@ fintech-review-analytics/
    ```bash
 git clone [https://github.com/Solih06/fintech-review-analytics.git](https://github.com/Solih06/fintech-review-analytics.git)
 cd fintech-review-analytics
-   ```
-   ```
+   
 2. ## Set up Virtual Environment
    On Windows Powershell/CMD
    ```bash
