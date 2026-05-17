@@ -1,0 +1,19 @@
+2026-05-17 02:07:52,053 - INFO - HTTP Request: HEAD https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-05-17 02:07:52,441 - INFO - HTTP Request: GET https://huggingface.co/api/models/distilbert-base-uncased-finetuned-sst-2-english/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-05-17 02:07:52,702 - INFO - HTTP Request: GET https://huggingface.co/api/models/distilbert/distilbert-base-uncased-finetuned-sst-2-english/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-05-17 02:07:52,961 - INFO - HTTP Request: GET https://huggingface.co/api/models/distilbert-base-uncased-finetuned-sst-2-english/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-05-17 02:07:53,229 - INFO - HTTP Request: GET https://huggingface.co/api/models/distilbert/distilbert-base-uncased-finetuned-sst-2-english/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-05-17 02:11:20,145 - INFO - SYSTEM START: Initializing Task 2 Full-Scale Sentiment & Thematic Extraction Pipeline.
+2026-05-17 02:11:20,151 - INFO - INGESTION COMPLETED: Successfully loaded 1500 customer records for large-scale evaluation.
+2026-05-17 02:11:20,151 - INFO - MODEL INITIALIZATION: Loading fine-tuned DistilBERT NLP Transformer pipeline layer...
+2026-05-17 02:11:20,968 - INFO - HTTP Request: HEAD https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-05-17 02:11:20,970 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-05-17 02:11:21,319 - INFO - HTTP Request: GET https://huggingface.co/api/models/distilbert-base-uncased-finetuned-sst-2-english/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-05-17 02:11:21,581 - INFO - HTTP Request: GET https://huggingface.co/api/models/distilbert/distilbert-base-uncased-finetuned-sst-2-english/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-05-17 02:11:21,830 - INFO - HTTP Request: GET https://huggingface.co/api/models/distilbert-base-uncased-finetuned-sst-2-english/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-05-17 02:11:22,074 - INFO - HTTP Request: GET https://huggingface.co/api/models/distilbert/distilbert-base-uncased-finetuned-sst-2-english/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-05-17 02:11:22,103 - INFO - EXECUTION SEQUENCE: Running batch inference sequence over the entire 1,500 review records...
+2026-05-17 02:12:15,902 - INFO - EXPLICIT EVIDENCE GENERATED: Large-scale sentiment outputs successfully compiled at: data/processed\sentiment_results.csv
+2026-05-17 02:12:15,903 - INFO - THEMATIC EXTRACTION: Running text processing tokens over negative reviews to map key failure points...
+2026-05-17 02:12:15,911 - INFO - EXPLICIT EVIDENCE GENERATED: Theme metrics saved successfully at: data/processed\thematic_trends.csv
+2026-05-17 02:12:15,912 - INFO - SYSTEM METRICS SUCCESS: CRITICAL ECOSYSTEM THEMING COMPLETED.

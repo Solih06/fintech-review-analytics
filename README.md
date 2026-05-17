@@ -84,31 +84,27 @@ Aggregates the processed metrics and exports analytical plots reflecting cross-p
 
     Data Visualization: Matplotlib, Seaborn
 
-
-## 📊 Task 2 Performance & Large-Scale Evidence
+## 📊 Task 2 Performance, Large-Scale Evidence & Limitations
 
 The machine learning pipeline handles a deep learning sequence-classification pass over the full review dataset, saving comprehensive proof of execution directly inside the repository architecture.
-1. ## Explicit Dataset Outputs
 
-    Full Classified Output: Saved at data/processed/sentiment_results.csv (contains full text arrays mapped alongside model predictive labels and explicit prediction weights).
+### 1. Project Pipeline Outputs & Execution Logs
+* **Pipeline Execution Logs:** Saved at `data/processed/pipeline_execution.log` containing explicit structural system execution and tracking records.
+* **Full Classified Output:** Saved at `data/processed/sentiment_results.csv` (contains full text arrays mapped alongside model predictive labels and explicit prediction weights).
+* **Thematic Summary Metric Matrix:** Saved at `data/processed/thematic_trends.csv` (contains the frequency tracking of critical failure points).
 
-    Thematic Summary Metric Matrix: Saved at data/processed/thematic_trends.csv (contains the frequency tracking of critical failure points).
+### 2. Implementation of Thematic Analysis & Theme Extraction
+By filtering down the critical negative reviews, the tracking pipeline automatically isolates text metrics and computes statistical keyword frequencies to track structural customer friction across apps. The top extracted failure themes include:
+* **Transactional Latency:** High frequencies of system payment timeouts, network lagging, and slow backend confirmations.
+* **Authentication Friction:** Recurring user drop-offs linked to severe delays in automated OTP generation.
+* **Account Sync Discrepancies:** User interface reporting lag on real-time balance updates during peak traffic hours.
 
-2. ## Automatic Thematic Analysis & Theme Extraction
+### 3. Analysis Outputs and System Limitations
+While the current DistilBERT model demonstrates high efficiency, the analysis pipeline operates under the following design limitations:
+* **Linguistic Code-Switching Constraint:** The model is optimized for English text. In the Ethiopian fintech market, many users write reviews using a blend of Amharic phrases written in Latin script (Fidel transliteration/Amharic-English code-switching). These hybrid nuances can skew model prediction weights.
+* **Sarcasm and Contextual Blindness:** Fine-grained sentiment layers can occasionally misinterpret contextual sarcasm (e.g., "Great app, it only crashes five times a day!") as positive feedback.
+* **Binary Sentiment Boundary:** The core configuration maps data directly into binary categories (`POSITIVE` / `NEGATIVE`), which under-represents subtle, informational `NEUTRAL` feedback loops.
 
-By filtering down the critical negative reviews, the tracking pipeline automatically tokenizes text and computes distributions to isolate high-priority ecosystem pain points. The top extracted failure clusters include:
-
-    Transactional Latency: High frequencies of payment timeouts and slow backend confirmations.
-
-    Authentication Friction: Recurring user drop-offs linked to OTP (One-Time Password) generation delays.
-
-    Account Sync Discrepancies: User interface reporting lag on real-time balance updates during peak traffic hours.
-
-3. ## Sentiment Distribution across Fintech Apps
-
+### 4. Sentiment Distribution across Fintech Apps
 The comparative breakdown of user sentiment across the evaluated banking applications (CBE, BOA, and Dashen Bank) using 1,500 processed reviews:
-
-## 📊 Visualizations
-Sentiment Distribution across Fintech Apps. 
-The following chart shows the comparative breakdown of user sentiment across the evaluated banking applications (CBE, BOA, and Dashen Bank) using 1,500 processed reviews:
 ![Sentiment Distribution](notebooks/sentiment_distribution.png)
