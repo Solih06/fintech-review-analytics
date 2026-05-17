@@ -1,46 +1,78 @@
+import os
 import pandas as pd
 from transformers import pipeline
-import os
+from collections import Counter
+import re
 
-def run_sentiment_analysis():
-    input_path = 'data/raw/cleaned_reviews.csv'
-    output_dir = 'data/processed'
-    output_path = os.path.join(output_dir, 'sentiment_results.csv')
-
-    if not os.path.exists(input_path):
-        print(f"[X] Error: {input_path} not found. Run collect_data.py first.")
+def run_full_sentiment_and_thematic_pipeline():
+    print("🚀 Starting Task 2: Advanced Sentiment & Thematic Analysis...")
+    
+    raw_path = "data/raw/cleaned_reviews.csv"
+    processed_dir = "data/processed"
+    output_path = os.path.join(processed_dir, "sentiment_results.csv")
+    themes_path = os.path.join(processed_dir, "thematic_trends.csv")
+    
+    if not os.path.exists(raw_path):
+        print(f"❌ Error: Raw data file not found at {raw_path}")
         return
 
-    print("Loading dataset...")
-    df = pd.read_csv(input_path)
+    # Load full dataset
+    df = pd.read_csv(raw_path)
+    print(f"📋 Loaded {len(df)} records for processing.")
 
-    print("Initializing DistilBERT Sentiment Pipeline...")
-    # This specific model is fine-tuned for sentiment and fits the challenge requirements
+    # 1. Full Scale Sentiment Analysis
+    print("🧠 Initializing DistilBERT Transformer pipeline...")
     classifier = pipeline(
         "sentiment-analysis", 
-        model="distilbert-base-uncased-finetuned-sst-2-english"
+        model="distilbert-base-uncased-finetuned-sst-2-english",
+        truncation=True,
+        max_length=512
     )
 
-    print(f"Analyzing {len(df)} reviews. Please wait...")
-    
-    # Process reviews
-    # truncation=True ensures we don't crash on long reviews
-    results = classifier(df['review'].tolist(), truncation=True)
-    
-    # Extract results
-    df['sentiment'] = [res['label'] for res in results]
-    df['confidence'] = [res['score'] for res in results]
+    sentiments = []
+    confidence_scores = []
 
-    # Save the processed data
-    os.makedirs(output_dir, exist_ok=True)
+    print("⚡ Analyzing full review dataset (this may take a moment)...")
+    for index, row in df.iterrows():
+        review_text = str(row['review']) if pd.notnull(row['review']) else ""
+        if not review_text.strip():
+            sentiments.append("NEUTRAL")
+            confidence_scores.append(1.0)
+            continue
+            
+        result = classifier(review_text)[0]
+        sentiments.append(result['label'])
+        confidence_scores.append(result['score'])
+
+    df['sentiment'] = sentiments
+    df['confidence'] = confidence_scores
+
+    # Ensure processed directory exists and save large scale evidence
+    os.makedirs(processed_dir, exist_ok=True)
     df.to_csv(output_path, index=False)
+    print(f"💾 Saved explicit large-scale sentiment output evidence to: {output_path}")
+
+    # 2. Thematic Analysis / Theme Extraction
+    print("🔍 Extracting prominent complaint themes from negative reviews...")
+    negative_reviews = df[df['sentiment'] == 'NEGATIVE']['review'].dropna().astype(str)
     
-    print("\n" + "="*40)
-    print("TASK 2: SENTIMENT ANALYSIS COMPLETE")
-    print(f"File saved to: {output_path}")
-    print("\nQuick Summary:")
-    print(df['sentiment'].value_counts())
-    print("="*40)
+    # Simple tokenization & cleaning loop to isolate infrastructure themes
+    stop_words = {'the', 'to', 'and', 'a', 'in', 'is', 'it', 'i', 'of', 'this', 'for', 'my', 'on', 'with', 'app', 'bank', 'cbe', 'boa', 'dashen', 'not', 'very', 'but', 'have', 'has', 't', 's', 'am', 'are', 'was', 'were'}
+    words = []
+    
+    for text in negative_reviews:
+        cleaned_text = re.sub(r'[^a-zA-Z\s]', '', text.lower())
+        tokens = [w for w in cleaned_text.split() if w not in stop_words and len(w) > 2]
+        words.extend(tokens)
+        
+    word_counts = Counter(words).most_common(10)
+    
+    # Save themes to a tracked dataframe
+    themes_df = pd.DataFrame(word_counts, columns=['Theme/Keyword', 'Frequency'])
+    themes_df.to_csv(themes_path, index=False)
+    print(f"💾 Saved theme extraction metrics to: {themes_path}")
+    print("\n👑 Top Extracted Issues/Themes:")
+    print(themes_df)
 
 if __name__ == "__main__":
-    run_sentiment_analysis()
+    run_full_sentiment_and_thematic_pipeline()
