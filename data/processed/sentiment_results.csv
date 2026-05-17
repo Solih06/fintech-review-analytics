@@ -1,0 +1,1501 @@
+review,rating,date,bank,source,sentiment,confidence
+The system is down completely when I try to pay at a merchant counter.,1,2026-02-10,CBE,Google Play,NEGATIVE,0.9997826218605042
+Very slow authentication process. Fix the login screen loop.,1,2026-03-27,CBE,Google Play,NEGATIVE,0.9994550347328186
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-02-16,CBE,Google Play,POSITIVE,0.9998776912689209
+Reliable app for daily banking transactions. Recommended.,4,2026-01-01,CBE,Google Play,POSITIVE,0.9996591806411743
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-05-07,CBE,Google Play,NEGATIVE,0.9961382746696472
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-03,CBE,Google Play,NEGATIVE,0.9915052056312561
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-04-30,CBE,Google Play,POSITIVE,0.9997780919075012
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-16,CBE,Google Play,NEGATIVE,0.9997976422309875
+Love the new UI updates. Everything is seamless and responsive.,5,2026-01-09,CBE,Google Play,POSITIVE,0.9998515844345093
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-18,CBE,Google Play,POSITIVE,0.9998776912689209
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-27,CBE,Google Play,NEGATIVE,0.9984906911849976
+Easy to send money to other banks. Good work on the features.,4,2026-03-17,CBE,Google Play,POSITIVE,0.9997137188911438
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-31,CBE,Google Play,POSITIVE,0.9998776912689209
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-02-08,CBE,Google Play,POSITIVE,0.9998776912689209
+Love the new UI updates. Everything is seamless and responsive.,5,2026-01-03,CBE,Google Play,POSITIVE,0.9998515844345093
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-09,CBE,Google Play,NEGATIVE,0.9996730089187622
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-03-22,CBE,Google Play,NEGATIVE,0.9989086389541626
+Very slow authentication process. Fix the login screen loop.,1,2026-02-10,CBE,Google Play,NEGATIVE,0.9994550347328186
+The system is down completely when I try to pay at a merchant counter.,1,2026-04-17,CBE,Google Play,NEGATIVE,0.9997826218605042
+Very slow authentication process. Fix the login screen loop.,1,2026-01-06,CBE,Google Play,NEGATIVE,0.9994550347328186
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-06,CBE,Google Play,POSITIVE,0.9997780919075012
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-03-24,CBE,Google Play,POSITIVE,0.9994304776191711
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-06,CBE,Google Play,POSITIVE,0.9696264863014221
+Easy to send money to other banks. Good work on the features.,4,2026-03-19,CBE,Google Play,POSITIVE,0.9997137188911438
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-25,CBE,Google Play,POSITIVE,0.9998776912689209
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-06,CBE,Google Play,POSITIVE,0.9998515844345093
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-18,CBE,Google Play,POSITIVE,0.9696264863014221
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-07,CBE,Google Play,NEGATIVE,0.9984906911849976
+"Good app, transfer speed is much faster now after the recent update.",4,2026-01-18,CBE,Google Play,POSITIVE,0.9989547729492188
+Very slow authentication process. Fix the login screen loop.,1,2026-01-01,CBE,Google Play,NEGATIVE,0.9994550347328186
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-29,CBE,Google Play,POSITIVE,0.9998102784156799
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-17,CBE,Google Play,POSITIVE,0.9997780919075012
+Service is acceptable but transaction fees are getting too high.,3,2026-03-10,CBE,Google Play,NEGATIVE,0.9991235136985779
+It is okay but Telebirr is much faster than this app interface.,3,2026-04-29,CBE,Google Play,POSITIVE,0.9967328310012817
+Super fast transaction processing. Saved me a lot of time.,5,2026-04-06,CBE,Google Play,POSITIVE,0.9696264863014221
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-05-01,CBE,Google Play,POSITIVE,0.9998776912689209
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-02,CBE,Google Play,POSITIVE,0.9989547729492188
+Easy to send money to other banks. Good work on the features.,4,2026-04-12,CBE,Google Play,POSITIVE,0.9997137188911438
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-05-01,CBE,Google Play,POSITIVE,0.9998102784156799
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-04-19,CBE,Google Play,POSITIVE,0.9997780919075012
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-28,CBE,Google Play,POSITIVE,0.9998102784156799
+Very slow authentication process. Fix the login screen loop.,1,2026-04-17,CBE,Google Play,NEGATIVE,0.9994550347328186
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-18,CBE,Google Play,NEGATIVE,0.9997976422309875
+Service is acceptable but transaction fees are getting too high.,3,2026-02-02,CBE,Google Play,NEGATIVE,0.9991235136985779
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-02-04,CBE,Google Play,NEGATIVE,0.9973056316375732
+Very slow authentication process. Fix the login screen loop.,1,2026-02-19,CBE,Google Play,NEGATIVE,0.9994550347328186
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-16,CBE,Google Play,POSITIVE,0.9998102784156799
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-28,CBE,Google Play,NEGATIVE,0.9984906911849976
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-27,CBE,Google Play,NEGATIVE,0.9984906911849976
+Average app. It serves the basic purpose of checking balances.,3,2026-04-09,CBE,Google Play,NEGATIVE,0.9823229908943176
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-05-06,CBE,Google Play,POSITIVE,0.9998776912689209
+The system is down completely when I try to pay at a merchant counter.,1,2026-01-29,CBE,Google Play,NEGATIVE,0.9997826218605042
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-28,CBE,Google Play,NEGATIVE,0.9997976422309875
+Love the new UI updates. Everything is seamless and responsive.,5,2026-01-19,CBE,Google Play,POSITIVE,0.9998515844345093
+Reliable app for daily banking transactions. Recommended.,4,2026-03-31,CBE,Google Play,POSITIVE,0.9996591806411743
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-04,CBE,Google Play,POSITIVE,0.9696264863014221
+Service is acceptable but transaction fees are getting too high.,3,2026-05-10,CBE,Google Play,NEGATIVE,0.9991235136985779
+It is okay but Telebirr is much faster than this app interface.,3,2026-02-05,CBE,Google Play,POSITIVE,0.9967328310012817
+"Good app, transfer speed is much faster now after the recent update.",4,2026-03-26,CBE,Google Play,POSITIVE,0.9989547729492188
+Easy to send money to other banks. Good work on the features.,4,2026-01-18,CBE,Google Play,POSITIVE,0.9997137188911438
+Transfer is fine but airtime topup is completely broken right now.,3,2026-01-18,CBE,Google Play,NEGATIVE,0.9915052056312561
+Reliable app for daily banking transactions. Recommended.,4,2026-01-15,CBE,Google Play,POSITIVE,0.9996591806411743
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-13,CBE,Google Play,NEGATIVE,0.9988941550254822
+Super fast transaction processing. Saved me a lot of time.,5,2026-04-13,CBE,Google Play,POSITIVE,0.9696264863014221
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-03-10,CBE,Google Play,NEGATIVE,0.9973056316375732
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-26,CBE,Google Play,NEGATIVE,0.9997976422309875
+It is okay but Telebirr is much faster than this app interface.,3,2026-01-29,CBE,Google Play,POSITIVE,0.9967328310012817
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-05-10,CBE,Google Play,NEGATIVE,0.9984906911849976
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-18,CBE,Google Play,NEGATIVE,0.9984906911849976
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-10,CBE,Google Play,NEGATIVE,0.9915052056312561
+The user interface is confusing. It takes too many steps to send money.,2,2026-01-19,CBE,Google Play,NEGATIVE,0.999772846698761
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-14,CBE,Google Play,POSITIVE,0.9998515844345093
+Takes too long to load my balance statement. Needs optimization.,2,2026-05-05,CBE,Google Play,NEGATIVE,0.9996730089187622
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-02-26,CBE,Google Play,POSITIVE,0.9998776912689209
+Reliable app for daily banking transactions. Recommended.,4,2026-04-23,CBE,Google Play,POSITIVE,0.9996591806411743
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-11,CBE,Google Play,NEGATIVE,0.9984906911849976
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-21,CBE,Google Play,POSITIVE,0.9998515844345093
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-21,CBE,Google Play,NEGATIVE,0.9997976422309875
+Takes too long to load my balance statement. Needs optimization.,2,2026-04-26,CBE,Google Play,NEGATIVE,0.9996730089187622
+Very convenient for paying utility bills from home. Satisfied.,4,2026-04-16,CBE,Google Play,POSITIVE,0.9979442954063416
+Takes too long to load my balance statement. Needs optimization.,2,2026-02-15,CBE,Google Play,NEGATIVE,0.9996730089187622
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-26,CBE,Google Play,NEGATIVE,0.9984906911849976
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-28,CBE,Google Play,POSITIVE,0.9696264863014221
+Very slow authentication process. Fix the login screen loop.,1,2026-03-09,CBE,Google Play,NEGATIVE,0.9994550347328186
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-05-05,CBE,Google Play,NEGATIVE,0.9961382746696472
+It is okay but Telebirr is much faster than this app interface.,3,2026-04-02,CBE,Google Play,POSITIVE,0.9967328310012817
+Very slow authentication process. Fix the login screen loop.,1,2026-04-08,CBE,Google Play,NEGATIVE,0.9994550347328186
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-25,CBE,Google Play,POSITIVE,0.9998776912689209
+Average app. It serves the basic purpose of checking balances.,3,2026-03-17,CBE,Google Play,NEGATIVE,0.9823229908943176
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-24,CBE,Google Play,NEGATIVE,0.9997976422309875
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-29,CBE,Google Play,NEGATIVE,0.9997976422309875
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-03-15,CBE,Google Play,POSITIVE,0.9994304776191711
+Average app. It serves the basic purpose of checking balances.,3,2026-03-15,CBE,Google Play,NEGATIVE,0.9823229908943176
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-12,CBE,Google Play,POSITIVE,0.9998102784156799
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-05-03,CBE,Google Play,POSITIVE,0.9998102784156799
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-12,CBE,Google Play,NEGATIVE,0.9997976422309875
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-22,CBE,Google Play,POSITIVE,0.9998102784156799
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-29,CBE,Google Play,POSITIVE,0.9696264863014221
+Very slow authentication process. Fix the login screen loop.,1,2026-04-12,CBE,Google Play,NEGATIVE,0.9994550347328186
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-02,CBE,Google Play,NEGATIVE,0.9997976422309875
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-05,CBE,Google Play,NEGATIVE,0.9997826218605042
+Transfer is fine but airtime topup is completely broken right now.,3,2026-01-23,CBE,Google Play,NEGATIVE,0.9915052056312561
+Very slow authentication process. Fix the login screen loop.,1,2026-04-16,CBE,Google Play,NEGATIVE,0.9994550347328186
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-02-22,CBE,Google Play,NEGATIVE,0.9961382746696472
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-05-10,CBE,Google Play,NEGATIVE,0.9973056316375732
+App features are okay but the notifications lag behind considerably.,2,2026-01-22,CBE,Google Play,NEGATIVE,0.9940475225448608
+Very convenient for paying utility bills from home. Satisfied.,4,2026-02-21,CBE,Google Play,POSITIVE,0.9979442954063416
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-05-07,CBE,Google Play,POSITIVE,0.9997780919075012
+Very convenient for paying utility bills from home. Satisfied.,4,2026-03-13,CBE,Google Play,POSITIVE,0.9979442954063416
+Average app. It serves the basic purpose of checking balances.,3,2026-01-28,CBE,Google Play,NEGATIVE,0.9823229908943176
+App features are okay but the notifications lag behind considerably.,2,2026-01-17,CBE,Google Play,NEGATIVE,0.9940475225448608
+Easy to send money to other banks. Good work on the features.,4,2026-02-25,CBE,Google Play,POSITIVE,0.9997137188911438
+Easy to send money to other banks. Good work on the features.,4,2026-04-02,CBE,Google Play,POSITIVE,0.9997137188911438
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-17,CBE,Google Play,POSITIVE,0.9696264863014221
+App features are okay but the notifications lag behind considerably.,2,2026-04-23,CBE,Google Play,NEGATIVE,0.9940475225448608
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-19,CBE,Google Play,POSITIVE,0.9998776912689209
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-02-28,CBE,Google Play,POSITIVE,0.9994304776191711
+Easy to send money to other banks. Good work on the features.,4,2026-03-24,CBE,Google Play,POSITIVE,0.9997137188911438
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-18,CBE,Google Play,NEGATIVE,0.9997976422309875
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-18,CBE,Google Play,POSITIVE,0.9696264863014221
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-10,CBE,Google Play,NEGATIVE,0.9984906911849976
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-04-12,CBE,Google Play,POSITIVE,0.9997780919075012
+Reliable app for daily banking transactions. Recommended.,4,2026-01-09,CBE,Google Play,POSITIVE,0.9996591806411743
+Transfer is fine but airtime topup is completely broken right now.,3,2026-02-10,CBE,Google Play,NEGATIVE,0.9915052056312561
+Service is acceptable but transaction fees are getting too high.,3,2026-01-27,CBE,Google Play,NEGATIVE,0.9991235136985779
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-26,CBE,Google Play,NEGATIVE,0.9997826218605042
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-11,CBE,Google Play,POSITIVE,0.9998102784156799
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-22,CBE,Google Play,NEGATIVE,0.9988941550254822
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-22,CBE,Google Play,NEGATIVE,0.9997826218605042
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-13,CBE,Google Play,NEGATIVE,0.9997976422309875
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-04-26,CBE,Google Play,POSITIVE,0.9994304776191711
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-31,CBE,Google Play,NEGATIVE,0.9996730089187622
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-04-16,CBE,Google Play,NEGATIVE,0.9961382746696472
+App keeps crashing after the latest update. Very frustrating.,1,2026-01-22,CBE,Google Play,NEGATIVE,0.9988941550254822
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-05-10,CBE,Google Play,POSITIVE,0.9994304776191711
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-22,CBE,Google Play,POSITIVE,0.9997780919075012
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-05,CBE,Google Play,NEGATIVE,0.9997976422309875
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-02,CBE,Google Play,POSITIVE,0.9998776912689209
+Very slow authentication process. Fix the login screen loop.,1,2026-02-09,CBE,Google Play,NEGATIVE,0.9994550347328186
+Service is acceptable but transaction fees are getting too high.,3,2026-05-10,CBE,Google Play,NEGATIVE,0.9991235136985779
+Easy to send money to other banks. Good work on the features.,4,2026-01-01,CBE,Google Play,POSITIVE,0.9997137188911438
+Reliable app for daily banking transactions. Recommended.,4,2026-01-30,CBE,Google Play,POSITIVE,0.9996591806411743
+App keeps crashing after the latest update. Very frustrating.,1,2026-01-06,CBE,Google Play,NEGATIVE,0.9988941550254822
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-10,CBE,Google Play,NEGATIVE,0.9915052056312561
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-04-27,CBE,Google Play,POSITIVE,0.9997780919075012
+The system is down completely when I try to pay at a merchant counter.,1,2026-02-27,CBE,Google Play,NEGATIVE,0.9997826218605042
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-08,CBE,Google Play,NEGATIVE,0.9984906911849976
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-03-05,CBE,Google Play,POSITIVE,0.9994304776191711
+Easy to send money to other banks. Good work on the features.,4,2026-02-18,CBE,Google Play,POSITIVE,0.9997137188911438
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-03-08,CBE,Google Play,NEGATIVE,0.9961382746696472
+Reliable app for daily banking transactions. Recommended.,4,2026-01-05,CBE,Google Play,POSITIVE,0.9996591806411743
+The system is down completely when I try to pay at a merchant counter.,1,2026-04-21,CBE,Google Play,NEGATIVE,0.9997826218605042
+The user interface is confusing. It takes too many steps to send money.,2,2026-01-06,CBE,Google Play,NEGATIVE,0.999772846698761
+Average app. It serves the basic purpose of checking balances.,3,2026-01-05,CBE,Google Play,NEGATIVE,0.9823229908943176
+The user interface is confusing. It takes too many steps to send money.,2,2026-03-13,CBE,Google Play,NEGATIVE,0.999772846698761
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-15,CBE,Google Play,POSITIVE,0.9998102784156799
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-20,CBE,Google Play,NEGATIVE,0.9984906911849976
+It is okay but Telebirr is much faster than this app interface.,3,2026-04-02,CBE,Google Play,POSITIVE,0.9967328310012817
+Very slow authentication process. Fix the login screen loop.,1,2026-01-25,CBE,Google Play,NEGATIVE,0.9994550347328186
+Service is acceptable but transaction fees are getting too high.,3,2026-04-05,CBE,Google Play,NEGATIVE,0.9991235136985779
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-26,CBE,Google Play,NEGATIVE,0.9984906911849976
+Love the new UI updates. Everything is seamless and responsive.,5,2026-02-06,CBE,Google Play,POSITIVE,0.9998515844345093
+Easy to send money to other banks. Good work on the features.,4,2026-01-21,CBE,Google Play,POSITIVE,0.9997137188911438
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-02-01,CBE,Google Play,POSITIVE,0.9994304776191711
+Transfer is fine but airtime topup is completely broken right now.,3,2026-03-31,CBE,Google Play,NEGATIVE,0.9915052056312561
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-22,CBE,Google Play,POSITIVE,0.9989547729492188
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-07,CBE,Google Play,POSITIVE,0.9998102784156799
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-16,CBE,Google Play,POSITIVE,0.9998102784156799
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-18,CBE,Google Play,POSITIVE,0.9696264863014221
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-26,CBE,Google Play,POSITIVE,0.9696264863014221
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-18,CBE,Google Play,NEGATIVE,0.9988941550254822
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-04,CBE,Google Play,NEGATIVE,0.9997826218605042
+Very slow authentication process. Fix the login screen loop.,1,2026-05-07,CBE,Google Play,NEGATIVE,0.9994550347328186
+App features are okay but the notifications lag behind considerably.,2,2026-05-01,CBE,Google Play,NEGATIVE,0.9940475225448608
+Very slow authentication process. Fix the login screen loop.,1,2026-04-14,CBE,Google Play,NEGATIVE,0.9994550347328186
+The user interface is confusing. It takes too many steps to send money.,2,2026-01-09,CBE,Google Play,NEGATIVE,0.999772846698761
+It is okay but Telebirr is much faster than this app interface.,3,2026-03-12,CBE,Google Play,POSITIVE,0.9967328310012817
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-24,CBE,Google Play,POSITIVE,0.9696264863014221
+Service is acceptable but transaction fees are getting too high.,3,2026-05-08,CBE,Google Play,NEGATIVE,0.9991235136985779
+Very slow authentication process. Fix the login screen loop.,1,2026-01-17,CBE,Google Play,NEGATIVE,0.9994550347328186
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-01-30,CBE,Google Play,NEGATIVE,0.9973056316375732
+The user interface is confusing. It takes too many steps to send money.,2,2026-02-05,CBE,Google Play,NEGATIVE,0.999772846698761
+Transfer is fine but airtime topup is completely broken right now.,3,2026-03-28,CBE,Google Play,NEGATIVE,0.9915052056312561
+Transfer is fine but airtime topup is completely broken right now.,3,2026-03-17,CBE,Google Play,NEGATIVE,0.9915052056312561
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-03,CBE,Google Play,NEGATIVE,0.9996730089187622
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-01-13,CBE,Google Play,NEGATIVE,0.9989086389541626
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-07,CBE,Google Play,NEGATIVE,0.9988941550254822
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-05,CBE,Google Play,NEGATIVE,0.9984906911849976
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-04-15,CBE,Google Play,POSITIVE,0.9997780919075012
+Easy to send money to other banks. Good work on the features.,4,2026-05-07,CBE,Google Play,POSITIVE,0.9997137188911438
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-23,CBE,Google Play,POSITIVE,0.9998776912689209
+Reliable app for daily banking transactions. Recommended.,4,2026-01-03,CBE,Google Play,POSITIVE,0.9996591806411743
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-19,CBE,Google Play,POSITIVE,0.9998776912689209
+Very convenient for paying utility bills from home. Satisfied.,4,2026-04-17,CBE,Google Play,POSITIVE,0.9979442954063416
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-11,CBE,Google Play,POSITIVE,0.9998102784156799
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-05,CBE,Google Play,NEGATIVE,0.9997826218605042
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-30,CBE,Google Play,POSITIVE,0.9998102784156799
+Easy to send money to other banks. Good work on the features.,4,2026-02-27,CBE,Google Play,POSITIVE,0.9997137188911438
+Very convenient for paying utility bills from home. Satisfied.,4,2026-04-27,CBE,Google Play,POSITIVE,0.9979442954063416
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-15,CBE,Google Play,NEGATIVE,0.9984906911849976
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-02-10,CBE,Google Play,POSITIVE,0.9998776912689209
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-01,CBE,Google Play,NEGATIVE,0.9997976422309875
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-08,CBE,Google Play,POSITIVE,0.9998515844345093
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-04-30,CBE,Google Play,POSITIVE,0.9994304776191711
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-20,CBE,Google Play,POSITIVE,0.9998515844345093
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-08,CBE,Google Play,POSITIVE,0.9998515844345093
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-04-15,CBE,Google Play,POSITIVE,0.9997780919075012
+Transfer is fine but airtime topup is completely broken right now.,3,2026-03-16,CBE,Google Play,NEGATIVE,0.9915052056312561
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-03,CBE,Google Play,POSITIVE,0.9998515844345093
+"Good app, transfer speed is much faster now after the recent update.",4,2026-03-18,CBE,Google Play,POSITIVE,0.9989547729492188
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-09,CBE,Google Play,NEGATIVE,0.9997826218605042
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-11,CBE,Google Play,POSITIVE,0.9998776912689209
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-02-25,CBE,Google Play,POSITIVE,0.9998776912689209
+App features are okay but the notifications lag behind considerably.,2,2026-02-26,CBE,Google Play,NEGATIVE,0.9940475225448608
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-19,CBE,Google Play,NEGATIVE,0.9996730089187622
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-11,CBE,Google Play,POSITIVE,0.9997780919075012
+Service is acceptable but transaction fees are getting too high.,3,2026-05-10,CBE,Google Play,NEGATIVE,0.9991235136985779
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-31,CBE,Google Play,POSITIVE,0.9997780919075012
+Very slow authentication process. Fix the login screen loop.,1,2026-01-27,CBE,Google Play,NEGATIVE,0.9994550347328186
+App features are okay but the notifications lag behind considerably.,2,2026-01-24,CBE,Google Play,NEGATIVE,0.9940475225448608
+Very convenient for paying utility bills from home. Satisfied.,4,2026-01-06,CBE,Google Play,POSITIVE,0.9979442954063416
+The user interface is confusing. It takes too many steps to send money.,2,2026-04-23,CBE,Google Play,NEGATIVE,0.999772846698761
+Super fast transaction processing. Saved me a lot of time.,5,2026-05-10,CBE,Google Play,POSITIVE,0.9696264863014221
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-05-10,CBE,Google Play,NEGATIVE,0.9961382746696472
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-11,CBE,Google Play,NEGATIVE,0.9997976422309875
+App keeps crashing after the latest update. Very frustrating.,1,2026-01-21,CBE,Google Play,NEGATIVE,0.9988941550254822
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-04-14,CBE,Google Play,NEGATIVE,0.9961382746696472
+It is okay but Telebirr is much faster than this app interface.,3,2026-04-16,CBE,Google Play,POSITIVE,0.9967328310012817
+The user interface is confusing. It takes too many steps to send money.,2,2026-02-04,CBE,Google Play,NEGATIVE,0.999772846698761
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-28,CBE,Google Play,POSITIVE,0.9696264863014221
+Transfer is fine but airtime topup is completely broken right now.,3,2026-03-11,CBE,Google Play,NEGATIVE,0.9915052056312561
+App features are okay but the notifications lag behind considerably.,2,2026-01-06,CBE,Google Play,NEGATIVE,0.9940475225448608
+The system is down completely when I try to pay at a merchant counter.,1,2026-04-08,CBE,Google Play,NEGATIVE,0.9997826218605042
+Easy to send money to other banks. Good work on the features.,4,2026-03-10,CBE,Google Play,POSITIVE,0.9997137188911438
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-01-06,CBE,Google Play,NEGATIVE,0.9989086389541626
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-03-01,CBE,Google Play,POSITIVE,0.9994304776191711
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-27,CBE,Google Play,POSITIVE,0.9998776912689209
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-28,CBE,Google Play,NEGATIVE,0.9988941550254822
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-02-18,CBE,Google Play,NEGATIVE,0.9989086389541626
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-09,CBE,Google Play,POSITIVE,0.9998102784156799
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-23,CBE,Google Play,POSITIVE,0.9997780919075012
+The user interface is confusing. It takes too many steps to send money.,2,2026-03-15,CBE,Google Play,NEGATIVE,0.999772846698761
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-08,CBE,Google Play,NEGATIVE,0.9996730089187622
+Very slow authentication process. Fix the login screen loop.,1,2026-02-09,CBE,Google Play,NEGATIVE,0.9994550347328186
+Very convenient for paying utility bills from home. Satisfied.,4,2026-01-07,CBE,Google Play,POSITIVE,0.9979442954063416
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-23,CBE,Google Play,NEGATIVE,0.9988941550254822
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-04-30,CBE,Google Play,NEGATIVE,0.9961382746696472
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-15,CBE,Google Play,NEGATIVE,0.9997976422309875
+Easy to send money to other banks. Good work on the features.,4,2026-04-08,CBE,Google Play,POSITIVE,0.9997137188911438
+Service is acceptable but transaction fees are getting too high.,3,2026-03-26,CBE,Google Play,NEGATIVE,0.9991235136985779
+Reliable app for daily banking transactions. Recommended.,4,2026-01-11,CBE,Google Play,POSITIVE,0.9996591806411743
+Service is acceptable but transaction fees are getting too high.,3,2026-02-25,CBE,Google Play,NEGATIVE,0.9991235136985779
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-01-17,CBE,Google Play,POSITIVE,0.9994304776191711
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-03,CBE,Google Play,NEGATIVE,0.9915052056312561
+It is okay but Telebirr is much faster than this app interface.,3,2026-02-15,CBE,Google Play,POSITIVE,0.9967328310012817
+App keeps crashing after the latest update. Very frustrating.,1,2026-01-03,CBE,Google Play,NEGATIVE,0.9988941550254822
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-15,CBE,Google Play,NEGATIVE,0.9997976422309875
+It is okay but Telebirr is much faster than this app interface.,3,2026-02-03,CBE,Google Play,POSITIVE,0.9967328310012817
+Super fast transaction processing. Saved me a lot of time.,5,2026-05-10,CBE,Google Play,POSITIVE,0.9696264863014221
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-28,CBE,Google Play,POSITIVE,0.9989547729492188
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-15,CBE,Google Play,POSITIVE,0.9997780919075012
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-07,CBE,Google Play,NEGATIVE,0.9997976422309875
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-07,CBE,Google Play,POSITIVE,0.9696264863014221
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-10,CBE,Google Play,NEGATIVE,0.9984906911849976
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-12,CBE,Google Play,POSITIVE,0.9998515844345093
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-17,CBE,Google Play,POSITIVE,0.9998102784156799
+Very slow authentication process. Fix the login screen loop.,1,2026-04-13,CBE,Google Play,NEGATIVE,0.9994550347328186
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-22,CBE,Google Play,NEGATIVE,0.9988941550254822
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-04,CBE,Google Play,NEGATIVE,0.9997826218605042
+Easy to send money to other banks. Good work on the features.,4,2026-01-21,CBE,Google Play,POSITIVE,0.9997137188911438
+Service is acceptable but transaction fees are getting too high.,3,2026-05-10,CBE,Google Play,NEGATIVE,0.9991235136985779
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-02,CBE,Google Play,NEGATIVE,0.9988941550254822
+Service is acceptable but transaction fees are getting too high.,3,2026-04-16,CBE,Google Play,NEGATIVE,0.9991235136985779
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-03-15,CBE,Google Play,NEGATIVE,0.9989086389541626
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-29,CBE,Google Play,POSITIVE,0.9998776912689209
+App keeps crashing after the latest update. Very frustrating.,1,2026-05-01,CBE,Google Play,NEGATIVE,0.9988941550254822
+The user interface is confusing. It takes too many steps to send money.,2,2026-01-21,CBE,Google Play,NEGATIVE,0.999772846698761
+It is okay but Telebirr is much faster than this app interface.,3,2026-02-15,CBE,Google Play,POSITIVE,0.9967328310012817
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-14,CBE,Google Play,NEGATIVE,0.9984906911849976
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-07,CBE,Google Play,NEGATIVE,0.9997826218605042
+The user interface is confusing. It takes too many steps to send money.,2,2026-02-27,CBE,Google Play,NEGATIVE,0.999772846698761
+It is okay but Telebirr is much faster than this app interface.,3,2026-05-06,CBE,Google Play,POSITIVE,0.9967328310012817
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-09,CBE,Google Play,POSITIVE,0.9998776912689209
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-03,CBE,Google Play,POSITIVE,0.9997780919075012
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-01,CBE,Google Play,NEGATIVE,0.9988941550254822
+Very slow authentication process. Fix the login screen loop.,1,2026-02-15,CBE,Google Play,NEGATIVE,0.9994550347328186
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-05-11,CBE,Google Play,NEGATIVE,0.9973056316375732
+App features are okay but the notifications lag behind considerably.,2,2026-02-07,CBE,Google Play,NEGATIVE,0.9940475225448608
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-06,CBE,Google Play,POSITIVE,0.9998515844345093
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-02,CBE,Google Play,NEGATIVE,0.9997976422309875
+The user interface is confusing. It takes too many steps to send money.,2,2026-02-04,CBE,Google Play,NEGATIVE,0.999772846698761
+Service is acceptable but transaction fees are getting too high.,3,2026-01-23,CBE,Google Play,NEGATIVE,0.9991235136985779
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-15,CBE,Google Play,NEGATIVE,0.9984906911849976
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-03-21,CBE,Google Play,POSITIVE,0.9994304776191711
+"Good app, transfer speed is much faster now after the recent update.",4,2026-04-08,CBE,Google Play,POSITIVE,0.9989547729492188
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-04-09,CBE,Google Play,NEGATIVE,0.9989086389541626
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-05-02,CBE,Google Play,POSITIVE,0.9997780919075012
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-28,CBE,Google Play,NEGATIVE,0.9997976422309875
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-10,CBE,Google Play,POSITIVE,0.9998102784156799
+Average app. It serves the basic purpose of checking balances.,3,2026-03-07,CBE,Google Play,NEGATIVE,0.9823229908943176
+Very convenient for paying utility bills from home. Satisfied.,4,2026-04-18,CBE,Google Play,POSITIVE,0.9979442954063416
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-21,CBE,Google Play,NEGATIVE,0.9984906911849976
+Very slow authentication process. Fix the login screen loop.,1,2026-02-19,CBE,Google Play,NEGATIVE,0.9994550347328186
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-07,CBE,Google Play,POSITIVE,0.9696264863014221
+Very convenient for paying utility bills from home. Satisfied.,4,2026-04-15,CBE,Google Play,POSITIVE,0.9979442954063416
+Very convenient for paying utility bills from home. Satisfied.,4,2026-01-11,CBE,Google Play,POSITIVE,0.9979442954063416
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-15,CBE,Google Play,POSITIVE,0.9998102784156799
+The system is down completely when I try to pay at a merchant counter.,1,2026-01-31,CBE,Google Play,NEGATIVE,0.9997826218605042
+Very slow authentication process. Fix the login screen loop.,1,2026-03-11,CBE,Google Play,NEGATIVE,0.9994550347328186
+Reliable app for daily banking transactions. Recommended.,4,2026-01-11,CBE,Google Play,POSITIVE,0.9996591806411743
+The system is down completely when I try to pay at a merchant counter.,1,2026-02-10,CBE,Google Play,NEGATIVE,0.9997826218605042
+Transfer is fine but airtime topup is completely broken right now.,3,2026-01-27,CBE,Google Play,NEGATIVE,0.9915052056312561
+Very convenient for paying utility bills from home. Satisfied.,4,2026-04-18,CBE,Google Play,POSITIVE,0.9979442954063416
+Reliable app for daily banking transactions. Recommended.,4,2026-03-08,CBE,Google Play,POSITIVE,0.9996591806411743
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-13,CBE,Google Play,NEGATIVE,0.9984906911849976
+It is okay but Telebirr is much faster than this app interface.,3,2026-05-09,CBE,Google Play,POSITIVE,0.9967328310012817
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-02-18,CBE,Google Play,POSITIVE,0.9998776912689209
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-02,CBE,Google Play,POSITIVE,0.9989547729492188
+"Good app, transfer speed is much faster now after the recent update.",4,2026-01-06,CBE,Google Play,POSITIVE,0.9989547729492188
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-11,CBE,Google Play,NEGATIVE,0.9997976422309875
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-19,CBE,Google Play,POSITIVE,0.9998515844345093
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-03-12,CBE,Google Play,NEGATIVE,0.9961382746696472
+Transfer is fine but airtime topup is completely broken right now.,3,2026-02-17,CBE,Google Play,NEGATIVE,0.9915052056312561
+The user interface is confusing. It takes too many steps to send money.,2,2026-03-10,CBE,Google Play,NEGATIVE,0.999772846698761
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-05-05,CBE,Google Play,NEGATIVE,0.9961382746696472
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-05-04,CBE,Google Play,POSITIVE,0.9998776912689209
+The user interface is confusing. It takes too many steps to send money.,2,2026-03-27,CBE,Google Play,NEGATIVE,0.999772846698761
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-23,CBE,Google Play,NEGATIVE,0.9988941550254822
+Very slow authentication process. Fix the login screen loop.,1,2026-01-24,CBE,Google Play,NEGATIVE,0.9994550347328186
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-25,CBE,Google Play,NEGATIVE,0.9988941550254822
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-20,CBE,Google Play,NEGATIVE,0.9997976422309875
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-04,CBE,Google Play,POSITIVE,0.9998515844345093
+Easy to send money to other banks. Good work on the features.,4,2026-02-09,CBE,Google Play,POSITIVE,0.9997137188911438
+Very slow authentication process. Fix the login screen loop.,1,2026-02-11,CBE,Google Play,NEGATIVE,0.9994550347328186
+App features are okay but the notifications lag behind considerably.,2,2026-03-31,CBE,Google Play,NEGATIVE,0.9940475225448608
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-01-20,CBE,Google Play,NEGATIVE,0.9961382746696472
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-01-17,CBE,Google Play,NEGATIVE,0.9961382746696472
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-01-05,CBE,Google Play,POSITIVE,0.9994304776191711
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-05-03,CBE,Google Play,NEGATIVE,0.9984906911849976
+The system is down completely when I try to pay at a merchant counter.,1,2026-01-23,CBE,Google Play,NEGATIVE,0.9997826218605042
+Service is acceptable but transaction fees are getting too high.,3,2026-02-03,CBE,Google Play,NEGATIVE,0.9991235136985779
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-03,CBE,Google Play,NEGATIVE,0.9988941550254822
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-14,CBE,Google Play,POSITIVE,0.9998515844345093
+"Good app, transfer speed is much faster now after the recent update.",4,2026-01-09,CBE,Google Play,POSITIVE,0.9989547729492188
+Very slow authentication process. Fix the login screen loop.,1,2026-03-01,CBE,Google Play,NEGATIVE,0.9994550347328186
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-01-27,CBE,Google Play,POSITIVE,0.9994304776191711
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-09,CBE,Google Play,POSITIVE,0.9696264863014221
+It is okay but Telebirr is much faster than this app interface.,3,2026-03-08,CBE,Google Play,POSITIVE,0.9967328310012817
+"Good app, transfer speed is much faster now after the recent update.",4,2026-03-25,CBE,Google Play,POSITIVE,0.9989547729492188
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-12,CBE,Google Play,NEGATIVE,0.9988941550254822
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-13,CBE,Google Play,POSITIVE,0.9998776912689209
+Easy to send money to other banks. Good work on the features.,4,2026-03-05,CBE,Google Play,POSITIVE,0.9997137188911438
+It is okay but Telebirr is much faster than this app interface.,3,2026-01-27,CBE,Google Play,POSITIVE,0.9967328310012817
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-13,CBE,Google Play,NEGATIVE,0.9997826218605042
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-01-08,CBE,Google Play,NEGATIVE,0.9989086389541626
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-03-06,CBE,Google Play,NEGATIVE,0.9973056316375732
+Reliable app for daily banking transactions. Recommended.,4,2026-04-01,CBE,Google Play,POSITIVE,0.9996591806411743
+Easy to send money to other banks. Good work on the features.,4,2026-03-14,CBE,Google Play,POSITIVE,0.9997137188911438
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-17,CBE,Google Play,NEGATIVE,0.9984906911849976
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-27,CBE,Google Play,POSITIVE,0.9997780919075012
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-02-02,CBE,Google Play,NEGATIVE,0.9973056316375732
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-20,CBE,Google Play,POSITIVE,0.9696264863014221
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-20,CBE,Google Play,NEGATIVE,0.9988941550254822
+Easy to send money to other banks. Good work on the features.,4,2026-03-31,CBE,Google Play,POSITIVE,0.9997137188911438
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-27,CBE,Google Play,POSITIVE,0.9997780919075012
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-04-10,CBE,Google Play,POSITIVE,0.9997780919075012
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-21,CBE,Google Play,POSITIVE,0.9998102784156799
+The user interface is confusing. It takes too many steps to send money.,2,2026-02-20,CBE,Google Play,NEGATIVE,0.999772846698761
+Love the new UI updates. Everything is seamless and responsive.,5,2026-01-14,CBE,Google Play,POSITIVE,0.9998515844345093
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-04-16,CBE,Google Play,POSITIVE,0.9994304776191711
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-07,CBE,Google Play,POSITIVE,0.9998776912689209
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-12,CBE,Google Play,NEGATIVE,0.9984906911849976
+Takes too long to load my balance statement. Needs optimization.,2,2026-02-10,CBE,Google Play,NEGATIVE,0.9996730089187622
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-16,CBE,Google Play,POSITIVE,0.9998102784156799
+It is okay but Telebirr is much faster than this app interface.,3,2026-03-29,CBE,Google Play,POSITIVE,0.9967328310012817
+Easy to send money to other banks. Good work on the features.,4,2026-04-24,CBE,Google Play,POSITIVE,0.9997137188911438
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-03-27,CBE,Google Play,NEGATIVE,0.9961382746696472
+The user interface is confusing. It takes too many steps to send money.,2,2026-01-24,CBE,Google Play,NEGATIVE,0.999772846698761
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-20,CBE,Google Play,POSITIVE,0.9997780919075012
+The system is down completely when I try to pay at a merchant counter.,1,2026-02-24,CBE,Google Play,NEGATIVE,0.9997826218605042
+Service is acceptable but transaction fees are getting too high.,3,2026-03-30,CBE,Google Play,NEGATIVE,0.9991235136985779
+It is okay but Telebirr is much faster than this app interface.,3,2026-03-13,CBE,Google Play,POSITIVE,0.9967328310012817
+The system is down completely when I try to pay at a merchant counter.,1,2026-04-15,CBE,Google Play,NEGATIVE,0.9997826218605042
+Very slow authentication process. Fix the login screen loop.,1,2026-02-11,CBE,Google Play,NEGATIVE,0.9994550347328186
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-12,CBE,Google Play,NEGATIVE,0.9915052056312561
+Transfer is fine but airtime topup is completely broken right now.,3,2026-05-05,CBE,Google Play,NEGATIVE,0.9915052056312561
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-04-22,CBE,Google Play,POSITIVE,0.9997780919075012
+Easy to send money to other banks. Good work on the features.,4,2026-04-30,CBE,Google Play,POSITIVE,0.9997137188911438
+The user interface is confusing. It takes too many steps to send money.,2,2026-03-18,CBE,Google Play,NEGATIVE,0.999772846698761
+Super fast transaction processing. Saved me a lot of time.,5,2026-04-28,CBE,Google Play,POSITIVE,0.9696264863014221
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-23,CBE,Google Play,POSITIVE,0.9998515844345093
+Super fast transaction processing. Saved me a lot of time.,5,2026-04-19,CBE,Google Play,POSITIVE,0.9696264863014221
+Takes too long to load my balance statement. Needs optimization.,2,2026-03-11,CBE,Google Play,NEGATIVE,0.9996730089187622
+The user interface is confusing. It takes too many steps to send money.,2,2026-03-30,CBE,Google Play,NEGATIVE,0.999772846698761
+Very slow authentication process. Fix the login screen loop.,1,2026-04-24,CBE,Google Play,NEGATIVE,0.9994550347328186
+Takes too long to load my balance statement. Needs optimization.,2,2026-02-25,CBE,Google Play,NEGATIVE,0.9996730089187622
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-07,CBE,Google Play,POSITIVE,0.9998102784156799
+Very slow authentication process. Fix the login screen loop.,1,2026-01-06,CBE,Google Play,NEGATIVE,0.9994550347328186
+Very convenient for paying utility bills from home. Satisfied.,4,2026-01-13,CBE,Google Play,POSITIVE,0.9979442954063416
+Transfer is fine but airtime topup is completely broken right now.,3,2026-03-08,CBE,Google Play,NEGATIVE,0.9915052056312561
+Very convenient for paying utility bills from home. Satisfied.,4,2026-05-07,CBE,Google Play,POSITIVE,0.9979442954063416
+Reliable app for daily banking transactions. Recommended.,4,2026-02-26,CBE,Google Play,POSITIVE,0.9996591806411743
+Love the new UI updates. Everything is seamless and responsive.,5,2026-02-19,CBE,Google Play,POSITIVE,0.9998515844345093
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-29,CBE,Google Play,POSITIVE,0.9998776912689209
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-02-08,CBE,Google Play,POSITIVE,0.9994304776191711
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-07,CBE,Google Play,NEGATIVE,0.9988941550254822
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-02-04,CBE,Google Play,POSITIVE,0.9994304776191711
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-05,CBE,Google Play,POSITIVE,0.9997780919075012
+Very slow authentication process. Fix the login screen loop.,1,2026-01-19,CBE,Google Play,NEGATIVE,0.9994550347328186
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-13,CBE,Google Play,POSITIVE,0.9998515844345093
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-05,CBE,Google Play,POSITIVE,0.9998776912689209
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-28,CBE,Google Play,POSITIVE,0.9696264863014221
+The user interface is confusing. It takes too many steps to send money.,2,2026-02-23,CBE,Google Play,NEGATIVE,0.999772846698761
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-28,CBE,Google Play,POSITIVE,0.9989547729492188
+Transfer is fine but airtime topup is completely broken right now.,3,2026-01-08,CBE,Google Play,NEGATIVE,0.9915052056312561
+"Good app, transfer speed is much faster now after the recent update.",4,2026-05-06,CBE,Google Play,POSITIVE,0.9989547729492188
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-24,CBE,Google Play,POSITIVE,0.9998515844345093
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-30,CBE,Google Play,POSITIVE,0.9998776912689209
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-25,CBE,Google Play,NEGATIVE,0.9997976422309875
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-05-05,CBE,Google Play,NEGATIVE,0.9984906911849976
+Very convenient for paying utility bills from home. Satisfied.,4,2026-01-22,CBE,Google Play,POSITIVE,0.9979442954063416
+Reliable app for daily banking transactions. Recommended.,4,2026-03-03,CBE,Google Play,POSITIVE,0.9996591806411743
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-23,CBE,Google Play,POSITIVE,0.9998102784156799
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-28,CBE,Google Play,POSITIVE,0.9989547729492188
+Love the new UI updates. Everything is seamless and responsive.,5,2026-02-09,CBE,Google Play,POSITIVE,0.9998515844345093
+Love the new UI updates. Everything is seamless and responsive.,5,2026-05-09,CBE,Google Play,POSITIVE,0.9998515844345093
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-28,CBE,Google Play,POSITIVE,0.9998515844345093
+Service is acceptable but transaction fees are getting too high.,3,2026-03-15,CBE,Google Play,NEGATIVE,0.9991235136985779
+The system is down completely when I try to pay at a merchant counter.,1,2026-05-04,CBE,Google Play,NEGATIVE,0.9997826218605042
+The system is down completely when I try to pay at a merchant counter.,1,2026-01-26,CBE,Google Play,NEGATIVE,0.9997826218605042
+Very convenient for paying utility bills from home. Satisfied.,4,2026-01-30,CBE,Google Play,POSITIVE,0.9979442954063416
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-29,CBE,Google Play,POSITIVE,0.9997780919075012
+Very slow authentication process. Fix the login screen loop.,1,2026-01-04,CBE,Google Play,NEGATIVE,0.9994550347328186
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-27,CBE,Google Play,POSITIVE,0.9997780919075012
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-03-02,CBE,Google Play,NEGATIVE,0.9989086389541626
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-31,CBE,Google Play,POSITIVE,0.9997780919075012
+Super fast transaction processing. Saved me a lot of time.,5,2026-05-01,CBE,Google Play,POSITIVE,0.9696264863014221
+Easy to send money to other banks. Good work on the features.,4,2026-05-04,CBE,Google Play,POSITIVE,0.9997137188911438
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-04,CBE,Google Play,NEGATIVE,0.9997976422309875
+"Good app, transfer speed is much faster now after the recent update.",4,2026-03-07,CBE,Google Play,POSITIVE,0.9989547729492188
+Service is acceptable but transaction fees are getting too high.,3,2026-03-12,CBE,Google Play,NEGATIVE,0.9991235136985779
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-23,CBE,Google Play,POSITIVE,0.9696264863014221
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-02,CBE,Google Play,POSITIVE,0.9998102784156799
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-02-07,CBE,Google Play,NEGATIVE,0.9973056316375732
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-19,CBE,Google Play,NEGATIVE,0.9988941550254822
+Very slow authentication process. Fix the login screen loop.,1,2026-02-14,CBE,Google Play,NEGATIVE,0.9994550347328186
+Average app. It serves the basic purpose of checking balances.,3,2026-02-06,CBE,Google Play,NEGATIVE,0.9823229908943176
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-06,CBE,Google Play,POSITIVE,0.9696264863014221
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-05-07,CBE,Google Play,POSITIVE,0.9998776912689209
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-17,CBE,Google Play,POSITIVE,0.9998102784156799
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-01-12,CBE,Google Play,NEGATIVE,0.9989086389541626
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-28,CBE,Google Play,NEGATIVE,0.9996730089187622
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-01-26,CBE,Google Play,NEGATIVE,0.9961382746696472
+Love the new UI updates. Everything is seamless and responsive.,5,2026-02-19,CBE,Google Play,POSITIVE,0.9998515844345093
+Transfer is fine but airtime topup is completely broken right now.,3,2026-02-05,CBE,Google Play,NEGATIVE,0.9915052056312561
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-04-22,CBE,Google Play,POSITIVE,0.9997780919075012
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-17,CBE,Google Play,NEGATIVE,0.9984906911849976
+Easy to send money to other banks. Good work on the features.,4,2026-03-27,CBE,Google Play,POSITIVE,0.9997137188911438
+The user interface is confusing. It takes too many steps to send money.,2,2026-03-08,CBE,Google Play,NEGATIVE,0.999772846698761
+Easy to send money to other banks. Good work on the features.,4,2026-05-09,CBE,Google Play,POSITIVE,0.9997137188911438
+Reliable app for daily banking transactions. Recommended.,4,2026-01-27,CBE,Google Play,POSITIVE,0.9996591806411743
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-20,CBE,Google Play,NEGATIVE,0.9984906911849976
+Very slow authentication process. Fix the login screen loop.,1,2026-02-20,CBE,Google Play,NEGATIVE,0.9994550347328186
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-14,CBE,Google Play,POSITIVE,0.9989547729492188
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-04-25,CBE,Google Play,POSITIVE,0.9994304776191711
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-17,CBE,Google Play,NEGATIVE,0.9988941550254822
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-13,CBE,Google Play,NEGATIVE,0.9997976422309875
+Easy to send money to other banks. Good work on the features.,4,2026-04-12,CBE,Google Play,POSITIVE,0.9997137188911438
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-07,CBE,Google Play,POSITIVE,0.9989547729492188
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-28,CBE,Google Play,NEGATIVE,0.9984906911849976
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-16,CBE,Google Play,POSITIVE,0.9997780919075012
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-30,CBE,Google Play,POSITIVE,0.9997780919075012
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-31,CBE,Google Play,POSITIVE,0.9696264863014221
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-04-10,CBE,Google Play,NEGATIVE,0.9973056316375732
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-02,CBE,Google Play,POSITIVE,0.9998515844345093
+Super fast transaction processing. Saved me a lot of time.,5,2026-04-14,CBE,Google Play,POSITIVE,0.9696264863014221
+Very slow authentication process. Fix the login screen loop.,1,2026-05-04,CBE,Google Play,NEGATIVE,0.9994550347328186
+Average app. It serves the basic purpose of checking balances.,3,2026-05-11,CBE,Google Play,NEGATIVE,0.9823229908943176
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-23,CBE,Google Play,POSITIVE,0.9998102784156799
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-16,CBE,Google Play,POSITIVE,0.9997780919075012
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-01-24,CBE,Google Play,NEGATIVE,0.9961382746696472
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-27,CBE,Google Play,POSITIVE,0.9998102784156799
+The system is down completely when I try to pay at a merchant counter.,1,2026-05-02,CBE,Google Play,NEGATIVE,0.9997826218605042
+Average app. It serves the basic purpose of checking balances.,3,2026-03-05,CBE,Google Play,NEGATIVE,0.9823229908943176
+The user interface is confusing. It takes too many steps to send money.,2,2026-04-02,CBE,Google Play,NEGATIVE,0.999772846698761
+Takes too long to load my balance statement. Needs optimization.,2,2026-04-16,CBE,Google Play,NEGATIVE,0.9996730089187622
+App features are okay but the notifications lag behind considerably.,2,2026-04-03,CBE,Google Play,NEGATIVE,0.9940475225448608
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-02-19,CBE,Google Play,NEGATIVE,0.9961382746696472
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-23,CBE,Google Play,NEGATIVE,0.9984906911849976
+"Good app, transfer speed is much faster now after the recent update.",4,2026-01-18,CBE,Google Play,POSITIVE,0.9989547729492188
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-19,CBE,Google Play,NEGATIVE,0.9997976422309875
+Reliable app for daily banking transactions. Recommended.,4,2026-01-13,CBE,Google Play,POSITIVE,0.9996591806411743
+Reliable app for daily banking transactions. Recommended.,4,2026-03-18,CBE,Google Play,POSITIVE,0.9996591806411743
+Average app. It serves the basic purpose of checking balances.,3,2026-01-09,CBE,Google Play,NEGATIVE,0.9823229908943176
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-21,CBE,Google Play,NEGATIVE,0.9915052056312561
+Very convenient for paying utility bills from home. Satisfied.,4,2026-02-20,CBE,Google Play,POSITIVE,0.9979442954063416
+Service is acceptable but transaction fees are getting too high.,3,2026-02-16,CBE,Google Play,NEGATIVE,0.9991235136985779
+Very convenient for paying utility bills from home. Satisfied.,4,2026-02-05,CBE,Google Play,POSITIVE,0.9979442954063416
+Reliable app for daily banking transactions. Recommended.,4,2026-01-16,CBE,Google Play,POSITIVE,0.9996591806411743
+Very convenient for paying utility bills from home. Satisfied.,4,2026-04-10,CBE,Google Play,POSITIVE,0.9979442954063416
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-15,BOA,Google Play,NEGATIVE,0.9997826218605042
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-03-23,BOA,Google Play,NEGATIVE,0.9989086389541626
+Love the new UI updates. Everything is seamless and responsive.,5,2026-02-10,BOA,Google Play,POSITIVE,0.9998515844345093
+Reliable app for daily banking transactions. Recommended.,4,2026-03-24,BOA,Google Play,POSITIVE,0.9996591806411743
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-08,BOA,Google Play,POSITIVE,0.9998102784156799
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-01-24,BOA,Google Play,NEGATIVE,0.9961382746696472
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-30,BOA,Google Play,NEGATIVE,0.9996730089187622
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-02-01,BOA,Google Play,NEGATIVE,0.9973056316375732
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-05-10,BOA,Google Play,NEGATIVE,0.9997976422309875
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-03-20,BOA,Google Play,POSITIVE,0.9994304776191711
+Average app. It serves the basic purpose of checking balances.,3,2026-02-22,BOA,Google Play,NEGATIVE,0.9823229908943176
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-21,BOA,Google Play,NEGATIVE,0.9984906911849976
+Very convenient for paying utility bills from home. Satisfied.,4,2026-04-24,BOA,Google Play,POSITIVE,0.9979442954063416
+Very slow authentication process. Fix the login screen loop.,1,2026-01-22,BOA,Google Play,NEGATIVE,0.9994550347328186
+Easy to send money to other banks. Good work on the features.,4,2026-05-09,BOA,Google Play,POSITIVE,0.9997137188911438
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-01-15,BOA,Google Play,NEGATIVE,0.9989086389541626
+"Good app, transfer speed is much faster now after the recent update.",4,2026-04-16,BOA,Google Play,POSITIVE,0.9989547729492188
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-27,BOA,Google Play,POSITIVE,0.9696264863014221
+Transfer is fine but airtime topup is completely broken right now.,3,2026-03-22,BOA,Google Play,NEGATIVE,0.9915052056312561
+Super fast transaction processing. Saved me a lot of time.,5,2026-05-02,BOA,Google Play,POSITIVE,0.9696264863014221
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-02,BOA,Google Play,NEGATIVE,0.9988941550254822
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-24,BOA,Google Play,NEGATIVE,0.9984906911849976
+Very slow authentication process. Fix the login screen loop.,1,2026-02-10,BOA,Google Play,NEGATIVE,0.9994550347328186
+Takes too long to load my balance statement. Needs optimization.,2,2026-03-27,BOA,Google Play,NEGATIVE,0.9996730089187622
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-03,BOA,Google Play,NEGATIVE,0.9988941550254822
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-01-24,BOA,Google Play,POSITIVE,0.9994304776191711
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-03-15,BOA,Google Play,NEGATIVE,0.9961382746696472
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-05-01,BOA,Google Play,POSITIVE,0.9998102784156799
+"Good app, transfer speed is much faster now after the recent update.",4,2026-05-08,BOA,Google Play,POSITIVE,0.9989547729492188
+It is okay but Telebirr is much faster than this app interface.,3,2026-03-24,BOA,Google Play,POSITIVE,0.9967328310012817
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-03,BOA,Google Play,POSITIVE,0.9998515844345093
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-18,BOA,Google Play,POSITIVE,0.9997780919075012
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-03-28,BOA,Google Play,POSITIVE,0.9994304776191711
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-04-19,BOA,Google Play,POSITIVE,0.9994304776191711
+Reliable app for daily banking transactions. Recommended.,4,2026-02-17,BOA,Google Play,POSITIVE,0.9996591806411743
+Average app. It serves the basic purpose of checking balances.,3,2026-01-28,BOA,Google Play,NEGATIVE,0.9823229908943176
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-17,BOA,Google Play,NEGATIVE,0.9997826218605042
+Very slow authentication process. Fix the login screen loop.,1,2026-04-01,BOA,Google Play,NEGATIVE,0.9994550347328186
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-28,BOA,Google Play,POSITIVE,0.9696264863014221
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-13,BOA,Google Play,POSITIVE,0.9998515844345093
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-01-05,BOA,Google Play,NEGATIVE,0.9973056316375732
+It is okay but Telebirr is much faster than this app interface.,3,2026-04-11,BOA,Google Play,POSITIVE,0.9967328310012817
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-01-02,BOA,Google Play,NEGATIVE,0.9961382746696472
+Takes too long to load my balance statement. Needs optimization.,2,2026-05-07,BOA,Google Play,NEGATIVE,0.9996730089187622
+Takes too long to load my balance statement. Needs optimization.,2,2026-03-24,BOA,Google Play,NEGATIVE,0.9996730089187622
+App features are okay but the notifications lag behind considerably.,2,2026-05-04,BOA,Google Play,NEGATIVE,0.9940475225448608
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-08,BOA,Google Play,NEGATIVE,0.9984906911849976
+Average app. It serves the basic purpose of checking balances.,3,2026-05-04,BOA,Google Play,NEGATIVE,0.9823229908943176
+Service is acceptable but transaction fees are getting too high.,3,2026-04-24,BOA,Google Play,NEGATIVE,0.9991235136985779
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-26,BOA,Google Play,NEGATIVE,0.9988941550254822
+Average app. It serves the basic purpose of checking balances.,3,2026-01-14,BOA,Google Play,NEGATIVE,0.9823229908943176
+Very convenient for paying utility bills from home. Satisfied.,4,2026-04-07,BOA,Google Play,POSITIVE,0.9979442954063416
+It is okay but Telebirr is much faster than this app interface.,3,2026-03-31,BOA,Google Play,POSITIVE,0.9967328310012817
+Very convenient for paying utility bills from home. Satisfied.,4,2026-05-08,BOA,Google Play,POSITIVE,0.9979442954063416
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-04-13,BOA,Google Play,POSITIVE,0.9994304776191711
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-21,BOA,Google Play,POSITIVE,0.9989547729492188
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-20,BOA,Google Play,NEGATIVE,0.9988941550254822
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-13,BOA,Google Play,NEGATIVE,0.9984906911849976
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-01-12,BOA,Google Play,POSITIVE,0.9994304776191711
+Super fast transaction processing. Saved me a lot of time.,5,2026-05-03,BOA,Google Play,POSITIVE,0.9696264863014221
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-22,BOA,Google Play,POSITIVE,0.9998102784156799
+"Good app, transfer speed is much faster now after the recent update.",4,2026-04-11,BOA,Google Play,POSITIVE,0.9989547729492188
+The system is down completely when I try to pay at a merchant counter.,1,2026-05-11,BOA,Google Play,NEGATIVE,0.9997826218605042
+Reliable app for daily banking transactions. Recommended.,4,2026-01-17,BOA,Google Play,POSITIVE,0.9996591806411743
+App features are okay but the notifications lag behind considerably.,2,2026-05-09,BOA,Google Play,NEGATIVE,0.9940475225448608
+Transfer is fine but airtime topup is completely broken right now.,3,2026-03-26,BOA,Google Play,NEGATIVE,0.9915052056312561
+Average app. It serves the basic purpose of checking balances.,3,2026-05-04,BOA,Google Play,NEGATIVE,0.9823229908943176
+Transfer is fine but airtime topup is completely broken right now.,3,2026-03-16,BOA,Google Play,NEGATIVE,0.9915052056312561
+Very slow authentication process. Fix the login screen loop.,1,2026-04-06,BOA,Google Play,NEGATIVE,0.9994550347328186
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-17,BOA,Google Play,POSITIVE,0.9998102784156799
+Service is acceptable but transaction fees are getting too high.,3,2026-04-25,BOA,Google Play,NEGATIVE,0.9991235136985779
+Average app. It serves the basic purpose of checking balances.,3,2026-03-14,BOA,Google Play,NEGATIVE,0.9823229908943176
+Love the new UI updates. Everything is seamless and responsive.,5,2026-01-19,BOA,Google Play,POSITIVE,0.9998515844345093
+The user interface is confusing. It takes too many steps to send money.,2,2026-01-29,BOA,Google Play,NEGATIVE,0.999772846698761
+Very slow authentication process. Fix the login screen loop.,1,2026-04-19,BOA,Google Play,NEGATIVE,0.9994550347328186
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-04,BOA,Google Play,POSITIVE,0.9997780919075012
+It is okay but Telebirr is much faster than this app interface.,3,2026-04-22,BOA,Google Play,POSITIVE,0.9967328310012817
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-15,BOA,Google Play,POSITIVE,0.9696264863014221
+Easy to send money to other banks. Good work on the features.,4,2026-02-12,BOA,Google Play,POSITIVE,0.9997137188911438
+The system is down completely when I try to pay at a merchant counter.,1,2026-02-08,BOA,Google Play,NEGATIVE,0.9997826218605042
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-08,BOA,Google Play,NEGATIVE,0.9997976422309875
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-26,BOA,Google Play,NEGATIVE,0.9988941550254822
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-14,BOA,Google Play,POSITIVE,0.9998776912689209
+Reliable app for daily banking transactions. Recommended.,4,2026-03-07,BOA,Google Play,POSITIVE,0.9996591806411743
+Takes too long to load my balance statement. Needs optimization.,2,2026-05-02,BOA,Google Play,NEGATIVE,0.9996730089187622
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-12,BOA,Google Play,NEGATIVE,0.9988941550254822
+Easy to send money to other banks. Good work on the features.,4,2026-03-10,BOA,Google Play,POSITIVE,0.9997137188911438
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-05,BOA,Google Play,POSITIVE,0.9696264863014221
+"Good app, transfer speed is much faster now after the recent update.",4,2026-05-05,BOA,Google Play,POSITIVE,0.9989547729492188
+Love the new UI updates. Everything is seamless and responsive.,5,2026-05-06,BOA,Google Play,POSITIVE,0.9998515844345093
+Very slow authentication process. Fix the login screen loop.,1,2026-05-03,BOA,Google Play,NEGATIVE,0.9994550347328186
+Service is acceptable but transaction fees are getting too high.,3,2026-03-26,BOA,Google Play,NEGATIVE,0.9991235136985779
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-26,BOA,Google Play,NEGATIVE,0.9984906911849976
+App features are okay but the notifications lag behind considerably.,2,2026-03-06,BOA,Google Play,NEGATIVE,0.9940475225448608
+Transfer is fine but airtime topup is completely broken right now.,3,2026-02-12,BOA,Google Play,NEGATIVE,0.9915052056312561
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-19,BOA,Google Play,NEGATIVE,0.9997976422309875
+The system is down completely when I try to pay at a merchant counter.,1,2026-04-06,BOA,Google Play,NEGATIVE,0.9997826218605042
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-19,BOA,Google Play,NEGATIVE,0.9984906911849976
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-03-04,BOA,Google Play,NEGATIVE,0.9961382746696472
+Super fast transaction processing. Saved me a lot of time.,5,2026-04-09,BOA,Google Play,POSITIVE,0.9696264863014221
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-29,BOA,Google Play,POSITIVE,0.9998102784156799
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-21,BOA,Google Play,NEGATIVE,0.9984906911849976
+Average app. It serves the basic purpose of checking balances.,3,2026-04-29,BOA,Google Play,NEGATIVE,0.9823229908943176
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-24,BOA,Google Play,POSITIVE,0.9998102784156799
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-10,BOA,Google Play,POSITIVE,0.9998102784156799
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-03,BOA,Google Play,POSITIVE,0.9998776912689209
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-19,BOA,Google Play,POSITIVE,0.9998102784156799
+Transfer is fine but airtime topup is completely broken right now.,3,2026-01-10,BOA,Google Play,NEGATIVE,0.9915052056312561
+It is okay but Telebirr is much faster than this app interface.,3,2026-03-06,BOA,Google Play,POSITIVE,0.9967328310012817
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-03-13,BOA,Google Play,POSITIVE,0.9994304776191711
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-30,BOA,Google Play,NEGATIVE,0.9988941550254822
+Average app. It serves the basic purpose of checking balances.,3,2026-02-16,BOA,Google Play,NEGATIVE,0.9823229908943176
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-06,BOA,Google Play,NEGATIVE,0.9988941550254822
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-23,BOA,Google Play,POSITIVE,0.9998102784156799
+App features are okay but the notifications lag behind considerably.,2,2026-04-10,BOA,Google Play,NEGATIVE,0.9940475225448608
+Average app. It serves the basic purpose of checking balances.,3,2026-01-06,BOA,Google Play,NEGATIVE,0.9823229908943176
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-21,BOA,Google Play,NEGATIVE,0.9984906911849976
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-06,BOA,Google Play,POSITIVE,0.9998776912689209
+Reliable app for daily banking transactions. Recommended.,4,2026-02-09,BOA,Google Play,POSITIVE,0.9996591806411743
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-05,BOA,Google Play,POSITIVE,0.9998776912689209
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-02,BOA,Google Play,POSITIVE,0.9998102784156799
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-04-15,BOA,Google Play,NEGATIVE,0.9961382746696472
+Reliable app for daily banking transactions. Recommended.,4,2026-04-26,BOA,Google Play,POSITIVE,0.9996591806411743
+Very slow authentication process. Fix the login screen loop.,1,2026-03-23,BOA,Google Play,NEGATIVE,0.9994550347328186
+The system is down completely when I try to pay at a merchant counter.,1,2026-01-26,BOA,Google Play,NEGATIVE,0.9997826218605042
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-04-07,BOA,Google Play,NEGATIVE,0.9973056316375732
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-14,BOA,Google Play,POSITIVE,0.9997780919075012
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-31,BOA,Google Play,POSITIVE,0.9998515844345093
+Super fast transaction processing. Saved me a lot of time.,5,2026-04-28,BOA,Google Play,POSITIVE,0.9696264863014221
+Very slow authentication process. Fix the login screen loop.,1,2026-04-27,BOA,Google Play,NEGATIVE,0.9994550347328186
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-19,BOA,Google Play,POSITIVE,0.9998776912689209
+Easy to send money to other banks. Good work on the features.,4,2026-05-07,BOA,Google Play,POSITIVE,0.9997137188911438
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-18,BOA,Google Play,NEGATIVE,0.9988941550254822
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-01-26,BOA,Google Play,NEGATIVE,0.9989086389541626
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-01,BOA,Google Play,NEGATIVE,0.9997976422309875
+Average app. It serves the basic purpose of checking balances.,3,2026-01-03,BOA,Google Play,NEGATIVE,0.9823229908943176
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-08,BOA,Google Play,NEGATIVE,0.9984906911849976
+Transfer is fine but airtime topup is completely broken right now.,3,2026-03-31,BOA,Google Play,NEGATIVE,0.9915052056312561
+Very convenient for paying utility bills from home. Satisfied.,4,2026-03-03,BOA,Google Play,POSITIVE,0.9979442954063416
+Very slow authentication process. Fix the login screen loop.,1,2026-05-07,BOA,Google Play,NEGATIVE,0.9994550347328186
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-21,BOA,Google Play,NEGATIVE,0.9984906911849976
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-01,BOA,Google Play,POSITIVE,0.9997780919075012
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-05-07,BOA,Google Play,POSITIVE,0.9998776912689209
+Very convenient for paying utility bills from home. Satisfied.,4,2026-03-05,BOA,Google Play,POSITIVE,0.9979442954063416
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-03,BOA,Google Play,POSITIVE,0.9998776912689209
+Average app. It serves the basic purpose of checking balances.,3,2026-02-14,BOA,Google Play,NEGATIVE,0.9823229908943176
+Very convenient for paying utility bills from home. Satisfied.,4,2026-03-29,BOA,Google Play,POSITIVE,0.9979442954063416
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-22,BOA,Google Play,NEGATIVE,0.9915052056312561
+The user interface is confusing. It takes too many steps to send money.,2,2026-03-29,BOA,Google Play,NEGATIVE,0.999772846698761
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-25,BOA,Google Play,NEGATIVE,0.9988941550254822
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-04,BOA,Google Play,POSITIVE,0.9997780919075012
+The system is down completely when I try to pay at a merchant counter.,1,2026-02-02,BOA,Google Play,NEGATIVE,0.9997826218605042
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-15,BOA,Google Play,NEGATIVE,0.9997976422309875
+Easy to send money to other banks. Good work on the features.,4,2026-04-29,BOA,Google Play,POSITIVE,0.9997137188911438
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-20,BOA,Google Play,NEGATIVE,0.9997976422309875
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-31,BOA,Google Play,POSITIVE,0.9696264863014221
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-14,BOA,Google Play,NEGATIVE,0.9997976422309875
+Transfer is fine but airtime topup is completely broken right now.,3,2026-02-20,BOA,Google Play,NEGATIVE,0.9915052056312561
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-17,BOA,Google Play,POSITIVE,0.9997780919075012
+Love the new UI updates. Everything is seamless and responsive.,5,2026-05-02,BOA,Google Play,POSITIVE,0.9998515844345093
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-05,BOA,Google Play,POSITIVE,0.9989547729492188
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-21,BOA,Google Play,NEGATIVE,0.9984906911849976
+Service is acceptable but transaction fees are getting too high.,3,2026-01-19,BOA,Google Play,NEGATIVE,0.9991235136985779
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-22,BOA,Google Play,NEGATIVE,0.9997976422309875
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-05,BOA,Google Play,NEGATIVE,0.9984906911849976
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-21,BOA,Google Play,NEGATIVE,0.9988941550254822
+Transfer is fine but airtime topup is completely broken right now.,3,2026-03-12,BOA,Google Play,NEGATIVE,0.9915052056312561
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-25,BOA,Google Play,POSITIVE,0.9997780919075012
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-01-17,BOA,Google Play,NEGATIVE,0.9961382746696472
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-27,BOA,Google Play,NEGATIVE,0.9984906911849976
+Very slow authentication process. Fix the login screen loop.,1,2026-03-01,BOA,Google Play,NEGATIVE,0.9994550347328186
+It is okay but Telebirr is much faster than this app interface.,3,2026-01-22,BOA,Google Play,POSITIVE,0.9967328310012817
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-30,BOA,Google Play,NEGATIVE,0.9988941550254822
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-05-05,BOA,Google Play,POSITIVE,0.9997780919075012
+Transfer is fine but airtime topup is completely broken right now.,3,2026-05-06,BOA,Google Play,NEGATIVE,0.9915052056312561
+Very slow authentication process. Fix the login screen loop.,1,2026-04-15,BOA,Google Play,NEGATIVE,0.9994550347328186
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-06,BOA,Google Play,NEGATIVE,0.9984906911849976
+It is okay but Telebirr is much faster than this app interface.,3,2026-03-23,BOA,Google Play,POSITIVE,0.9967328310012817
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-04-26,BOA,Google Play,POSITIVE,0.9997780919075012
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-01-20,BOA,Google Play,NEGATIVE,0.9973056316375732
+Service is acceptable but transaction fees are getting too high.,3,2026-01-11,BOA,Google Play,NEGATIVE,0.9991235136985779
+Very slow authentication process. Fix the login screen loop.,1,2026-02-22,BOA,Google Play,NEGATIVE,0.9994550347328186
+Very slow authentication process. Fix the login screen loop.,1,2026-03-15,BOA,Google Play,NEGATIVE,0.9994550347328186
+Very slow authentication process. Fix the login screen loop.,1,2026-02-10,BOA,Google Play,NEGATIVE,0.9994550347328186
+Very slow authentication process. Fix the login screen loop.,1,2026-03-23,BOA,Google Play,NEGATIVE,0.9994550347328186
+Very convenient for paying utility bills from home. Satisfied.,4,2026-01-10,BOA,Google Play,POSITIVE,0.9979442954063416
+App features are okay but the notifications lag behind considerably.,2,2026-02-20,BOA,Google Play,NEGATIVE,0.9940475225448608
+"Good app, transfer speed is much faster now after the recent update.",4,2026-03-29,BOA,Google Play,POSITIVE,0.9989547729492188
+Takes too long to load my balance statement. Needs optimization.,2,2026-02-10,BOA,Google Play,NEGATIVE,0.9996730089187622
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-15,BOA,Google Play,NEGATIVE,0.9988941550254822
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-05,BOA,Google Play,POSITIVE,0.9997780919075012
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-04-02,BOA,Google Play,POSITIVE,0.9994304776191711
+App features are okay but the notifications lag behind considerably.,2,2026-02-17,BOA,Google Play,NEGATIVE,0.9940475225448608
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-21,BOA,Google Play,POSITIVE,0.9998776912689209
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-17,BOA,Google Play,NEGATIVE,0.9997976422309875
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-02-06,BOA,Google Play,NEGATIVE,0.9989086389541626
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-04,BOA,Google Play,POSITIVE,0.9997780919075012
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-01-24,BOA,Google Play,NEGATIVE,0.9973056316375732
+"Good app, transfer speed is much faster now after the recent update.",4,2026-04-17,BOA,Google Play,POSITIVE,0.9989547729492188
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-05-09,BOA,Google Play,POSITIVE,0.9998102784156799
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-07,BOA,Google Play,NEGATIVE,0.9997976422309875
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-26,BOA,Google Play,POSITIVE,0.9696264863014221
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-05-02,BOA,Google Play,NEGATIVE,0.9961382746696472
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-21,BOA,Google Play,POSITIVE,0.9998515844345093
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-13,BOA,Google Play,POSITIVE,0.9696264863014221
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-10,BOA,Google Play,POSITIVE,0.9998102784156799
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-02-09,BOA,Google Play,NEGATIVE,0.9989086389541626
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-21,BOA,Google Play,POSITIVE,0.9696264863014221
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-08,BOA,Google Play,POSITIVE,0.9997780919075012
+"Good app, transfer speed is much faster now after the recent update.",4,2026-04-28,BOA,Google Play,POSITIVE,0.9989547729492188
+Love the new UI updates. Everything is seamless and responsive.,5,2026-01-09,BOA,Google Play,POSITIVE,0.9998515844345093
+Average app. It serves the basic purpose of checking balances.,3,2026-02-11,BOA,Google Play,NEGATIVE,0.9823229908943176
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-16,BOA,Google Play,NEGATIVE,0.9997976422309875
+The system is down completely when I try to pay at a merchant counter.,1,2026-02-04,BOA,Google Play,NEGATIVE,0.9997826218605042
+App features are okay but the notifications lag behind considerably.,2,2026-04-14,BOA,Google Play,NEGATIVE,0.9940475225448608
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-02-09,BOA,Google Play,NEGATIVE,0.9973056316375732
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-01-30,BOA,Google Play,NEGATIVE,0.9989086389541626
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-28,BOA,Google Play,POSITIVE,0.9998102784156799
+Very slow authentication process. Fix the login screen loop.,1,2026-02-25,BOA,Google Play,NEGATIVE,0.9994550347328186
+Average app. It serves the basic purpose of checking balances.,3,2026-01-11,BOA,Google Play,NEGATIVE,0.9823229908943176
+It is okay but Telebirr is much faster than this app interface.,3,2026-01-20,BOA,Google Play,POSITIVE,0.9967328310012817
+Takes too long to load my balance statement. Needs optimization.,2,2026-05-07,BOA,Google Play,NEGATIVE,0.9996730089187622
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-18,BOA,Google Play,POSITIVE,0.9998776912689209
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-05,BOA,Google Play,NEGATIVE,0.9984906911849976
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-22,BOA,Google Play,POSITIVE,0.9696264863014221
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-15,BOA,Google Play,NEGATIVE,0.9988941550254822
+Service is acceptable but transaction fees are getting too high.,3,2026-02-26,BOA,Google Play,NEGATIVE,0.9991235136985779
+Very slow authentication process. Fix the login screen loop.,1,2026-01-16,BOA,Google Play,NEGATIVE,0.9994550347328186
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-01-18,BOA,Google Play,POSITIVE,0.9994304776191711
+"Good app, transfer speed is much faster now after the recent update.",4,2026-01-04,BOA,Google Play,POSITIVE,0.9989547729492188
+Reliable app for daily banking transactions. Recommended.,4,2026-01-23,BOA,Google Play,POSITIVE,0.9996591806411743
+Service is acceptable but transaction fees are getting too high.,3,2026-01-28,BOA,Google Play,NEGATIVE,0.9991235136985779
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-27,BOA,Google Play,NEGATIVE,0.9988941550254822
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-03-05,BOA,Google Play,NEGATIVE,0.9989086389541626
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-10,BOA,Google Play,POSITIVE,0.9998102784156799
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-26,BOA,Google Play,POSITIVE,0.9989547729492188
+Takes too long to load my balance statement. Needs optimization.,2,2026-05-10,BOA,Google Play,NEGATIVE,0.9996730089187622
+Easy to send money to other banks. Good work on the features.,4,2026-04-26,BOA,Google Play,POSITIVE,0.9997137188911438
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-06,BOA,Google Play,POSITIVE,0.9696264863014221
+Love the new UI updates. Everything is seamless and responsive.,5,2026-05-07,BOA,Google Play,POSITIVE,0.9998515844345093
+Easy to send money to other banks. Good work on the features.,4,2026-02-11,BOA,Google Play,POSITIVE,0.9997137188911438
+Takes too long to load my balance statement. Needs optimization.,2,2026-02-17,BOA,Google Play,NEGATIVE,0.9996730089187622
+Easy to send money to other banks. Good work on the features.,4,2026-01-20,BOA,Google Play,POSITIVE,0.9997137188911438
+Average app. It serves the basic purpose of checking balances.,3,2026-03-13,BOA,Google Play,NEGATIVE,0.9823229908943176
+Average app. It serves the basic purpose of checking balances.,3,2026-03-24,BOA,Google Play,NEGATIVE,0.9823229908943176
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-05,BOA,Google Play,NEGATIVE,0.9988941550254822
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-01,BOA,Google Play,NEGATIVE,0.9915052056312561
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-27,BOA,Google Play,NEGATIVE,0.9988941550254822
+Service is acceptable but transaction fees are getting too high.,3,2026-03-20,BOA,Google Play,NEGATIVE,0.9991235136985779
+The user interface is confusing. It takes too many steps to send money.,2,2026-03-14,BOA,Google Play,NEGATIVE,0.999772846698761
+Very slow authentication process. Fix the login screen loop.,1,2026-04-02,BOA,Google Play,NEGATIVE,0.9994550347328186
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-30,BOA,Google Play,NEGATIVE,0.9984906911849976
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-19,BOA,Google Play,POSITIVE,0.9998776912689209
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-02-17,BOA,Google Play,NEGATIVE,0.9973056316375732
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-31,BOA,Google Play,POSITIVE,0.9997780919075012
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-03-27,BOA,Google Play,NEGATIVE,0.9961382746696472
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-06,BOA,Google Play,POSITIVE,0.9696264863014221
+Very slow authentication process. Fix the login screen loop.,1,2026-01-21,BOA,Google Play,NEGATIVE,0.9994550347328186
+Easy to send money to other banks. Good work on the features.,4,2026-04-16,BOA,Google Play,POSITIVE,0.9997137188911438
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-18,BOA,Google Play,POSITIVE,0.9998102784156799
+The user interface is confusing. It takes too many steps to send money.,2,2026-02-05,BOA,Google Play,NEGATIVE,0.999772846698761
+It is okay but Telebirr is much faster than this app interface.,3,2026-04-04,BOA,Google Play,POSITIVE,0.9967328310012817
+Very slow authentication process. Fix the login screen loop.,1,2026-01-04,BOA,Google Play,NEGATIVE,0.9994550347328186
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-12,BOA,Google Play,POSITIVE,0.9998102784156799
+Average app. It serves the basic purpose of checking balances.,3,2026-04-21,BOA,Google Play,NEGATIVE,0.9823229908943176
+Easy to send money to other banks. Good work on the features.,4,2026-01-23,BOA,Google Play,POSITIVE,0.9997137188911438
+Very convenient for paying utility bills from home. Satisfied.,4,2026-03-09,BOA,Google Play,POSITIVE,0.9979442954063416
+Love the new UI updates. Everything is seamless and responsive.,5,2026-01-01,BOA,Google Play,POSITIVE,0.9998515844345093
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-11,BOA,Google Play,POSITIVE,0.9989547729492188
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-11,BOA,Google Play,POSITIVE,0.9696264863014221
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-14,BOA,Google Play,POSITIVE,0.9696264863014221
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-09,BOA,Google Play,NEGATIVE,0.9988941550254822
+Reliable app for daily banking transactions. Recommended.,4,2026-01-09,BOA,Google Play,POSITIVE,0.9996591806411743
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-20,BOA,Google Play,POSITIVE,0.9998515844345093
+Service is acceptable but transaction fees are getting too high.,3,2026-02-19,BOA,Google Play,NEGATIVE,0.9991235136985779
+Very slow authentication process. Fix the login screen loop.,1,2026-01-18,BOA,Google Play,NEGATIVE,0.9994550347328186
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-02,BOA,Google Play,POSITIVE,0.9998776912689209
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-04-30,BOA,Google Play,NEGATIVE,0.9973056316375732
+The system is down completely when I try to pay at a merchant counter.,1,2026-02-11,BOA,Google Play,NEGATIVE,0.9997826218605042
+Reliable app for daily banking transactions. Recommended.,4,2026-04-09,BOA,Google Play,POSITIVE,0.9996591806411743
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-19,BOA,Google Play,POSITIVE,0.9997780919075012
+"Good app, transfer speed is much faster now after the recent update.",4,2026-01-26,BOA,Google Play,POSITIVE,0.9989547729492188
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-02-13,BOA,Google Play,POSITIVE,0.9994304776191711
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-01,BOA,Google Play,POSITIVE,0.9998776912689209
+App keeps crashing after the latest update. Very frustrating.,1,2026-05-01,BOA,Google Play,NEGATIVE,0.9988941550254822
+Very convenient for paying utility bills from home. Satisfied.,4,2026-04-18,BOA,Google Play,POSITIVE,0.9979442954063416
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-02,BOA,Google Play,POSITIVE,0.9998776912689209
+Very slow authentication process. Fix the login screen loop.,1,2026-04-25,BOA,Google Play,NEGATIVE,0.9994550347328186
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-13,BOA,Google Play,POSITIVE,0.9998102784156799
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-12,BOA,Google Play,POSITIVE,0.9997780919075012
+Very slow authentication process. Fix the login screen loop.,1,2026-02-12,BOA,Google Play,NEGATIVE,0.9994550347328186
+Very convenient for paying utility bills from home. Satisfied.,4,2026-01-05,BOA,Google Play,POSITIVE,0.9979442954063416
+Very slow authentication process. Fix the login screen loop.,1,2026-03-05,BOA,Google Play,NEGATIVE,0.9994550347328186
+Average app. It serves the basic purpose of checking balances.,3,2026-04-15,BOA,Google Play,NEGATIVE,0.9823229908943176
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-27,BOA,Google Play,NEGATIVE,0.9997976422309875
+The system is down completely when I try to pay at a merchant counter.,1,2026-01-11,BOA,Google Play,NEGATIVE,0.9997826218605042
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-07,BOA,Google Play,NEGATIVE,0.9984906911849976
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-22,BOA,Google Play,POSITIVE,0.9998102784156799
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-02-05,BOA,Google Play,NEGATIVE,0.9961382746696472
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-10,BOA,Google Play,POSITIVE,0.9989547729492188
+The system is down completely when I try to pay at a merchant counter.,1,2026-02-20,BOA,Google Play,NEGATIVE,0.9997826218605042
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-26,BOA,Google Play,POSITIVE,0.9998776912689209
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-24,BOA,Google Play,POSITIVE,0.9998102784156799
+It is okay but Telebirr is much faster than this app interface.,3,2026-03-10,BOA,Google Play,POSITIVE,0.9967328310012817
+Easy to send money to other banks. Good work on the features.,4,2026-03-18,BOA,Google Play,POSITIVE,0.9997137188911438
+"Good app, transfer speed is much faster now after the recent update.",4,2026-01-21,BOA,Google Play,POSITIVE,0.9989547729492188
+Very convenient for paying utility bills from home. Satisfied.,4,2026-04-17,BOA,Google Play,POSITIVE,0.9979442954063416
+Very slow authentication process. Fix the login screen loop.,1,2026-01-12,BOA,Google Play,NEGATIVE,0.9994550347328186
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-18,BOA,Google Play,POSITIVE,0.9696264863014221
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-29,BOA,Google Play,POSITIVE,0.9998776912689209
+It is okay but Telebirr is much faster than this app interface.,3,2026-02-19,BOA,Google Play,POSITIVE,0.9967328310012817
+Very convenient for paying utility bills from home. Satisfied.,4,2026-02-09,BOA,Google Play,POSITIVE,0.9979442954063416
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-23,BOA,Google Play,NEGATIVE,0.9997976422309875
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-30,BOA,Google Play,NEGATIVE,0.9997976422309875
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-28,BOA,Google Play,NEGATIVE,0.9984906911849976
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-04-12,BOA,Google Play,NEGATIVE,0.9973056316375732
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-01-31,BOA,Google Play,NEGATIVE,0.9989086389541626
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-31,BOA,Google Play,NEGATIVE,0.9997826218605042
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-09,BOA,Google Play,POSITIVE,0.9696264863014221
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-25,BOA,Google Play,NEGATIVE,0.9997976422309875
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-09,BOA,Google Play,NEGATIVE,0.9997826218605042
+Reliable app for daily banking transactions. Recommended.,4,2026-01-25,BOA,Google Play,POSITIVE,0.9996591806411743
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-02-08,BOA,Google Play,POSITIVE,0.9998776912689209
+Easy to send money to other banks. Good work on the features.,4,2026-02-21,BOA,Google Play,POSITIVE,0.9997137188911438
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-22,BOA,Google Play,NEGATIVE,0.9997976422309875
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-02-19,BOA,Google Play,NEGATIVE,0.9973056316375732
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-01-20,BOA,Google Play,NEGATIVE,0.9961382746696472
+Love the new UI updates. Everything is seamless and responsive.,5,2026-02-18,BOA,Google Play,POSITIVE,0.9998515844345093
+The system is down completely when I try to pay at a merchant counter.,1,2026-04-24,BOA,Google Play,NEGATIVE,0.9997826218605042
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-30,BOA,Google Play,POSITIVE,0.9998102784156799
+The system is down completely when I try to pay at a merchant counter.,1,2026-04-29,BOA,Google Play,NEGATIVE,0.9997826218605042
+"Good app, transfer speed is much faster now after the recent update.",4,2026-03-22,BOA,Google Play,POSITIVE,0.9989547729492188
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-05-05,BOA,Google Play,NEGATIVE,0.9984906911849976
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-25,BOA,Google Play,NEGATIVE,0.9997976422309875
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-22,BOA,Google Play,POSITIVE,0.9998102784156799
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-09,BOA,Google Play,NEGATIVE,0.9997976422309875
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-23,BOA,Google Play,POSITIVE,0.9998776912689209
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-02-25,BOA,Google Play,NEGATIVE,0.9961382746696472
+The user interface is confusing. It takes too many steps to send money.,2,2026-04-27,BOA,Google Play,NEGATIVE,0.999772846698761
+Service is acceptable but transaction fees are getting too high.,3,2026-03-20,BOA,Google Play,NEGATIVE,0.9991235136985779
+Average app. It serves the basic purpose of checking balances.,3,2026-04-16,BOA,Google Play,NEGATIVE,0.9823229908943176
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-01-25,BOA,Google Play,NEGATIVE,0.9973056316375732
+Very slow authentication process. Fix the login screen loop.,1,2026-03-02,BOA,Google Play,NEGATIVE,0.9994550347328186
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-03-29,BOA,Google Play,POSITIVE,0.9994304776191711
+Transfer is fine but airtime topup is completely broken right now.,3,2026-05-09,BOA,Google Play,NEGATIVE,0.9915052056312561
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-04,BOA,Google Play,POSITIVE,0.9989547729492188
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-26,BOA,Google Play,POSITIVE,0.9998102784156799
+Easy to send money to other banks. Good work on the features.,4,2026-02-03,BOA,Google Play,POSITIVE,0.9997137188911438
+Easy to send money to other banks. Good work on the features.,4,2026-02-11,BOA,Google Play,POSITIVE,0.9997137188911438
+Reliable app for daily banking transactions. Recommended.,4,2026-03-06,BOA,Google Play,POSITIVE,0.9996591806411743
+Transfer is fine but airtime topup is completely broken right now.,3,2026-01-08,BOA,Google Play,NEGATIVE,0.9915052056312561
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-21,BOA,Google Play,NEGATIVE,0.9915052056312561
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-05-09,BOA,Google Play,NEGATIVE,0.9989086389541626
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-09,BOA,Google Play,NEGATIVE,0.9915052056312561
+Service is acceptable but transaction fees are getting too high.,3,2026-04-18,BOA,Google Play,NEGATIVE,0.9991235136985779
+Easy to send money to other banks. Good work on the features.,4,2026-04-30,BOA,Google Play,POSITIVE,0.9997137188911438
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-03-11,BOA,Google Play,POSITIVE,0.9994304776191711
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-20,BOA,Google Play,POSITIVE,0.9997780919075012
+Average app. It serves the basic purpose of checking balances.,3,2026-01-24,BOA,Google Play,NEGATIVE,0.9823229908943176
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-08,BOA,Google Play,POSITIVE,0.9998102784156799
+Very convenient for paying utility bills from home. Satisfied.,4,2026-03-03,BOA,Google Play,POSITIVE,0.9979442954063416
+Reliable app for daily banking transactions. Recommended.,4,2026-03-17,BOA,Google Play,POSITIVE,0.9996591806411743
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-08,BOA,Google Play,NEGATIVE,0.9984906911849976
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-19,BOA,Google Play,NEGATIVE,0.9996730089187622
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-04,BOA,Google Play,POSITIVE,0.9696264863014221
+Super fast transaction processing. Saved me a lot of time.,5,2026-04-18,BOA,Google Play,POSITIVE,0.9696264863014221
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-05-06,BOA,Google Play,NEGATIVE,0.9984906911849976
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-02-28,BOA,Google Play,POSITIVE,0.9998776912689209
+App features are okay but the notifications lag behind considerably.,2,2026-04-16,BOA,Google Play,NEGATIVE,0.9940475225448608
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-17,BOA,Google Play,POSITIVE,0.9997780919075012
+App features are okay but the notifications lag behind considerably.,2,2026-01-18,BOA,Google Play,NEGATIVE,0.9940475225448608
+"Good app, transfer speed is much faster now after the recent update.",4,2026-01-06,BOA,Google Play,POSITIVE,0.9989547729492188
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-12,BOA,Google Play,NEGATIVE,0.9997826218605042
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-19,BOA,Google Play,NEGATIVE,0.9997976422309875
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-04-15,BOA,Google Play,POSITIVE,0.9997780919075012
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-06,BOA,Google Play,POSITIVE,0.9998102784156799
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-04-05,BOA,Google Play,NEGATIVE,0.9961382746696472
+It is okay but Telebirr is much faster than this app interface.,3,2026-03-29,BOA,Google Play,POSITIVE,0.9967328310012817
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-26,BOA,Google Play,NEGATIVE,0.9997976422309875
+App features are okay but the notifications lag behind considerably.,2,2026-04-15,BOA,Google Play,NEGATIVE,0.9940475225448608
+Very convenient for paying utility bills from home. Satisfied.,4,2026-01-19,BOA,Google Play,POSITIVE,0.9979442954063416
+Very convenient for paying utility bills from home. Satisfied.,4,2026-01-29,BOA,Google Play,POSITIVE,0.9979442954063416
+App features are okay but the notifications lag behind considerably.,2,2026-04-15,BOA,Google Play,NEGATIVE,0.9940475225448608
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-03-07,BOA,Google Play,POSITIVE,0.9994304776191711
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-24,BOA,Google Play,POSITIVE,0.9998776912689209
+Transfer is fine but airtime topup is completely broken right now.,3,2026-01-18,BOA,Google Play,NEGATIVE,0.9915052056312561
+Transfer is fine but airtime topup is completely broken right now.,3,2026-05-03,BOA,Google Play,NEGATIVE,0.9915052056312561
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-17,BOA,Google Play,NEGATIVE,0.9988941550254822
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-01-26,BOA,Google Play,NEGATIVE,0.9961382746696472
+Very convenient for paying utility bills from home. Satisfied.,4,2026-02-07,BOA,Google Play,POSITIVE,0.9979442954063416
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-25,BOA,Google Play,POSITIVE,0.9696264863014221
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-02-06,BOA,Google Play,NEGATIVE,0.9973056316375732
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-13,BOA,Google Play,NEGATIVE,0.9996730089187622
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-03-07,BOA,Google Play,NEGATIVE,0.9961382746696472
+Very slow authentication process. Fix the login screen loop.,1,2026-03-23,BOA,Google Play,NEGATIVE,0.9994550347328186
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-02-06,BOA,Google Play,NEGATIVE,0.9989086389541626
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-09,BOA,Google Play,POSITIVE,0.9696264863014221
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-01-04,BOA,Google Play,POSITIVE,0.9994304776191711
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-04,BOA,Google Play,POSITIVE,0.9997780919075012
+"Good app, transfer speed is much faster now after the recent update.",4,2026-01-19,BOA,Google Play,POSITIVE,0.9989547729492188
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-27,BOA,Google Play,NEGATIVE,0.9984906911849976
+"Good app, transfer speed is much faster now after the recent update.",4,2026-03-04,BOA,Google Play,POSITIVE,0.9989547729492188
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-04-12,BOA,Google Play,NEGATIVE,0.9973056316375732
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-22,BOA,Google Play,NEGATIVE,0.9997976422309875
+Transfer is fine but airtime topup is completely broken right now.,3,2026-03-09,BOA,Google Play,NEGATIVE,0.9915052056312561
+Very convenient for paying utility bills from home. Satisfied.,4,2026-02-27,BOA,Google Play,POSITIVE,0.9979442954063416
+Takes too long to load my balance statement. Needs optimization.,2,2026-02-09,BOA,Google Play,NEGATIVE,0.9996730089187622
+Very slow authentication process. Fix the login screen loop.,1,2026-04-25,BOA,Google Play,NEGATIVE,0.9994550347328186
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-15,BOA,Google Play,POSITIVE,0.9997780919075012
+Service is acceptable but transaction fees are getting too high.,3,2026-01-02,BOA,Google Play,NEGATIVE,0.9991235136985779
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-19,BOA,Google Play,NEGATIVE,0.9988941550254822
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-20,BOA,Google Play,NEGATIVE,0.9984906911849976
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-24,BOA,Google Play,POSITIVE,0.9998515844345093
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-02-05,BOA,Google Play,POSITIVE,0.9994304776191711
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-02-13,BOA,Google Play,NEGATIVE,0.9973056316375732
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-13,BOA,Google Play,POSITIVE,0.9997780919075012
+Very convenient for paying utility bills from home. Satisfied.,4,2026-01-29,BOA,Google Play,POSITIVE,0.9979442954063416
+It is okay but Telebirr is much faster than this app interface.,3,2026-01-05,BOA,Google Play,POSITIVE,0.9967328310012817
+Takes too long to load my balance statement. Needs optimization.,2,2026-03-20,BOA,Google Play,NEGATIVE,0.9996730089187622
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-06,BOA,Google Play,NEGATIVE,0.9997976422309875
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-28,BOA,Google Play,POSITIVE,0.9998102784156799
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-22,BOA,Google Play,POSITIVE,0.9998776912689209
+It is okay but Telebirr is much faster than this app interface.,3,2026-04-17,BOA,Google Play,POSITIVE,0.9967328310012817
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-22,BOA,Google Play,NEGATIVE,0.9997976422309875
+Very convenient for paying utility bills from home. Satisfied.,4,2026-01-21,BOA,Google Play,POSITIVE,0.9979442954063416
+Easy to send money to other banks. Good work on the features.,4,2026-02-11,BOA,Google Play,POSITIVE,0.9997137188911438
+Very slow authentication process. Fix the login screen loop.,1,2026-01-31,BOA,Google Play,NEGATIVE,0.9994550347328186
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-04-14,BOA,Google Play,NEGATIVE,0.9961382746696472
+Reliable app for daily banking transactions. Recommended.,4,2026-05-03,BOA,Google Play,POSITIVE,0.9996591806411743
+Easy to send money to other banks. Good work on the features.,4,2026-01-03,BOA,Google Play,POSITIVE,0.9997137188911438
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-09,BOA,Google Play,POSITIVE,0.9998102784156799
+Easy to send money to other banks. Good work on the features.,4,2026-02-03,BOA,Google Play,POSITIVE,0.9997137188911438
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-10,BOA,Google Play,NEGATIVE,0.9984906911849976
+Reliable app for daily banking transactions. Recommended.,4,2026-02-01,BOA,Google Play,POSITIVE,0.9996591806411743
+Easy to send money to other banks. Good work on the features.,4,2026-02-22,BOA,Google Play,POSITIVE,0.9997137188911438
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-05-05,BOA,Google Play,POSITIVE,0.9994304776191711
+The user interface is confusing. It takes too many steps to send money.,2,2026-04-02,BOA,Google Play,NEGATIVE,0.999772846698761
+Transfer is fine but airtime topup is completely broken right now.,3,2026-01-21,BOA,Google Play,NEGATIVE,0.9915052056312561
+Service is acceptable but transaction fees are getting too high.,3,2026-04-20,BOA,Google Play,NEGATIVE,0.9991235136985779
+The system is down completely when I try to pay at a merchant counter.,1,2026-02-01,BOA,Google Play,NEGATIVE,0.9997826218605042
+The user interface is confusing. It takes too many steps to send money.,2,2026-04-30,BOA,Google Play,NEGATIVE,0.999772846698761
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-06,BOA,Google Play,POSITIVE,0.9998515844345093
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-04,BOA,Google Play,POSITIVE,0.9998102784156799
+Very convenient for paying utility bills from home. Satisfied.,4,2026-03-16,BOA,Google Play,POSITIVE,0.9979442954063416
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-19,BOA,Google Play,POSITIVE,0.9997780919075012
+It is okay but Telebirr is much faster than this app interface.,3,2026-04-15,BOA,Google Play,POSITIVE,0.9967328310012817
+Easy to send money to other banks. Good work on the features.,4,2026-03-27,BOA,Google Play,POSITIVE,0.9997137188911438
+Very convenient for paying utility bills from home. Satisfied.,4,2026-04-25,BOA,Google Play,POSITIVE,0.9979442954063416
+Takes too long to load my balance statement. Needs optimization.,2,2026-03-14,BOA,Google Play,NEGATIVE,0.9996730089187622
+Easy to send money to other banks. Good work on the features.,4,2026-02-05,BOA,Google Play,POSITIVE,0.9997137188911438
+Love the new UI updates. Everything is seamless and responsive.,5,2026-02-13,BOA,Google Play,POSITIVE,0.9998515844345093
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-24,BOA,Google Play,POSITIVE,0.9998102784156799
+The system is down completely when I try to pay at a merchant counter.,1,2026-01-03,BOA,Google Play,NEGATIVE,0.9997826218605042
+Average app. It serves the basic purpose of checking balances.,3,2026-03-14,BOA,Google Play,NEGATIVE,0.9823229908943176
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-09,BOA,Google Play,POSITIVE,0.9989547729492188
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-22,BOA,Google Play,NEGATIVE,0.9997976422309875
+Very slow authentication process. Fix the login screen loop.,1,2026-01-10,BOA,Google Play,NEGATIVE,0.9994550347328186
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-01-29,BOA,Google Play,NEGATIVE,0.9973056316375732
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-23,BOA,Google Play,POSITIVE,0.9998102784156799
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-01-17,BOA,Google Play,NEGATIVE,0.9973056316375732
+The system is down completely when I try to pay at a merchant counter.,1,2026-05-11,BOA,Google Play,NEGATIVE,0.9997826218605042
+Very slow authentication process. Fix the login screen loop.,1,2026-04-10,BOA,Google Play,NEGATIVE,0.9994550347328186
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-21,BOA,Google Play,NEGATIVE,0.9984906911849976
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-01,BOA,Google Play,POSITIVE,0.9696264863014221
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-16,BOA,Google Play,POSITIVE,0.9998776912689209
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-07,BOA,Google Play,NEGATIVE,0.9984906911849976
+Very convenient for paying utility bills from home. Satisfied.,4,2026-05-09,BOA,Google Play,POSITIVE,0.9979442954063416
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-28,BOA,Google Play,NEGATIVE,0.9984906911849976
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-10,BOA,Google Play,NEGATIVE,0.9997976422309875
+Easy to send money to other banks. Good work on the features.,4,2026-04-13,BOA,Google Play,POSITIVE,0.9997137188911438
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-31,BOA,Google Play,POSITIVE,0.9997780919075012
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-01,BOA,Google Play,POSITIVE,0.9998102784156799
+Very convenient for paying utility bills from home. Satisfied.,4,2026-04-13,BOA,Google Play,POSITIVE,0.9979442954063416
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-30,BOA,Google Play,NEGATIVE,0.9984906911849976
+Easy to send money to other banks. Good work on the features.,4,2026-01-15,BOA,Google Play,POSITIVE,0.9997137188911438
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-22,BOA,Google Play,NEGATIVE,0.9984906911849976
+Very slow authentication process. Fix the login screen loop.,1,2026-01-15,BOA,Google Play,NEGATIVE,0.9994550347328186
+The system is down completely when I try to pay at a merchant counter.,1,2026-05-02,BOA,Google Play,NEGATIVE,0.9997826218605042
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-05-05,BOA,Google Play,POSITIVE,0.9998102784156799
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-20,BOA,Google Play,NEGATIVE,0.9988941550254822
+Service is acceptable but transaction fees are getting too high.,3,2026-05-10,BOA,Google Play,NEGATIVE,0.9991235136985779
+Super fast transaction processing. Saved me a lot of time.,5,2026-05-02,BOA,Google Play,POSITIVE,0.9696264863014221
+Very slow authentication process. Fix the login screen loop.,1,2026-02-10,BOA,Google Play,NEGATIVE,0.9994550347328186
+"Good app, transfer speed is much faster now after the recent update.",4,2026-03-23,BOA,Google Play,POSITIVE,0.9989547729492188
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-28,BOA,Google Play,NEGATIVE,0.9997976422309875
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-09,BOA,Google Play,POSITIVE,0.9998102784156799
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-12,BOA,Google Play,POSITIVE,0.9696264863014221
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-22,BOA,Google Play,NEGATIVE,0.9997826218605042
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-14,BOA,Google Play,NEGATIVE,0.9988941550254822
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-23,BOA,Google Play,POSITIVE,0.9696264863014221
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-16,BOA,Google Play,NEGATIVE,0.9915052056312561
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-04-08,BOA,Google Play,POSITIVE,0.9994304776191711
+App features are okay but the notifications lag behind considerably.,2,2026-01-13,BOA,Google Play,NEGATIVE,0.9940475225448608
+App keeps crashing after the latest update. Very frustrating.,1,2026-01-05,BOA,Google Play,NEGATIVE,0.9988941550254822
+Love the new UI updates. Everything is seamless and responsive.,5,2026-05-06,BOA,Google Play,POSITIVE,0.9998515844345093
+App keeps crashing after the latest update. Very frustrating.,1,2026-05-06,BOA,Google Play,NEGATIVE,0.9988941550254822
+App keeps crashing after the latest update. Very frustrating.,1,2026-01-03,BOA,Google Play,NEGATIVE,0.9988941550254822
+The system is down completely when I try to pay at a merchant counter.,1,2026-04-12,BOA,Google Play,NEGATIVE,0.9997826218605042
+App features are okay but the notifications lag behind considerably.,2,2026-05-11,BOA,Google Play,NEGATIVE,0.9940475225448608
+Love the new UI updates. Everything is seamless and responsive.,5,2026-05-06,BOA,Google Play,POSITIVE,0.9998515844345093
+App features are okay but the notifications lag behind considerably.,2,2026-02-28,Dashen,Google Play,NEGATIVE,0.9940475225448608
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-24,Dashen,Google Play,POSITIVE,0.9998102784156799
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-04-30,Dashen,Google Play,NEGATIVE,0.9961382746696472
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-02,Dashen,Google Play,POSITIVE,0.9997780919075012
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-04-12,Dashen,Google Play,POSITIVE,0.9994304776191711
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-02-04,Dashen,Google Play,NEGATIVE,0.9989086389541626
+Love the new UI updates. Everything is seamless and responsive.,5,2026-01-17,Dashen,Google Play,POSITIVE,0.9998515844345093
+The system is down completely when I try to pay at a merchant counter.,1,2026-02-08,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-22,Dashen,Google Play,POSITIVE,0.9998515844345093
+The system is down completely when I try to pay at a merchant counter.,1,2026-02-25,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-05-05,Dashen,Google Play,POSITIVE,0.9998776912689209
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-02-07,Dashen,Google Play,NEGATIVE,0.9961382746696472
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-11,Dashen,Google Play,POSITIVE,0.9998102784156799
+Reliable app for daily banking transactions. Recommended.,4,2026-01-09,Dashen,Google Play,POSITIVE,0.9996591806411743
+Easy to send money to other banks. Good work on the features.,4,2026-02-15,Dashen,Google Play,POSITIVE,0.9997137188911438
+Love the new UI updates. Everything is seamless and responsive.,5,2026-01-05,Dashen,Google Play,POSITIVE,0.9998515844345093
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-11,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-20,Dashen,Google Play,POSITIVE,0.9998102784156799
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-02,Dashen,Google Play,POSITIVE,0.9696264863014221
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-17,Dashen,Google Play,POSITIVE,0.9998102784156799
+Very slow authentication process. Fix the login screen loop.,1,2026-04-16,Dashen,Google Play,NEGATIVE,0.9994550347328186
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-05,Dashen,Google Play,NEGATIVE,0.9988941550254822
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-24,Dashen,Google Play,NEGATIVE,0.9988941550254822
+Takes too long to load my balance statement. Needs optimization.,2,2026-02-09,Dashen,Google Play,NEGATIVE,0.9996730089187622
+Takes too long to load my balance statement. Needs optimization.,2,2026-02-06,Dashen,Google Play,NEGATIVE,0.9996730089187622
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-08,Dashen,Google Play,POSITIVE,0.9696264863014221
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-30,Dashen,Google Play,POSITIVE,0.9998776912689209
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-25,Dashen,Google Play,POSITIVE,0.9998102784156799
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-16,Dashen,Google Play,POSITIVE,0.9998102784156799
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-18,Dashen,Google Play,POSITIVE,0.9998776912689209
+"Good app, transfer speed is much faster now after the recent update.",4,2026-03-13,Dashen,Google Play,POSITIVE,0.9989547729492188
+It is okay but Telebirr is much faster than this app interface.,3,2026-01-04,Dashen,Google Play,POSITIVE,0.9967328310012817
+Reliable app for daily banking transactions. Recommended.,4,2026-03-03,Dashen,Google Play,POSITIVE,0.9996591806411743
+Love the new UI updates. Everything is seamless and responsive.,5,2026-01-24,Dashen,Google Play,POSITIVE,0.9998515844345093
+Very slow authentication process. Fix the login screen loop.,1,2026-01-11,Dashen,Google Play,NEGATIVE,0.9994550347328186
+Very convenient for paying utility bills from home. Satisfied.,4,2026-04-08,Dashen,Google Play,POSITIVE,0.9979442954063416
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-05-08,Dashen,Google Play,NEGATIVE,0.9997976422309875
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-16,Dashen,Google Play,NEGATIVE,0.9988941550254822
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-26,Dashen,Google Play,POSITIVE,0.9998102784156799
+Very slow authentication process. Fix the login screen loop.,1,2026-04-13,Dashen,Google Play,NEGATIVE,0.9994550347328186
+Love the new UI updates. Everything is seamless and responsive.,5,2026-02-13,Dashen,Google Play,POSITIVE,0.9998515844345093
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-03-09,Dashen,Google Play,NEGATIVE,0.9989086389541626
+App features are okay but the notifications lag behind considerably.,2,2026-05-09,Dashen,Google Play,NEGATIVE,0.9940475225448608
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-11,Dashen,Google Play,POSITIVE,0.9696264863014221
+Reliable app for daily banking transactions. Recommended.,4,2026-04-16,Dashen,Google Play,POSITIVE,0.9996591806411743
+Takes too long to load my balance statement. Needs optimization.,2,2026-05-02,Dashen,Google Play,NEGATIVE,0.9996730089187622
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-02-14,Dashen,Google Play,NEGATIVE,0.9961382746696472
+"Good app, transfer speed is much faster now after the recent update.",4,2026-03-27,Dashen,Google Play,POSITIVE,0.9989547729492188
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-14,Dashen,Google Play,NEGATIVE,0.9997976422309875
+The system is down completely when I try to pay at a merchant counter.,1,2026-05-08,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-26,Dashen,Google Play,NEGATIVE,0.9997976422309875
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-04-14,Dashen,Google Play,NEGATIVE,0.9973056316375732
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-02,Dashen,Google Play,POSITIVE,0.9696264863014221
+The system is down completely when I try to pay at a merchant counter.,1,2026-01-17,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-06,Dashen,Google Play,POSITIVE,0.9998515844345093
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-09,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Reliable app for daily banking transactions. Recommended.,4,2026-04-08,Dashen,Google Play,POSITIVE,0.9996591806411743
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-01-04,Dashen,Google Play,NEGATIVE,0.9973056316375732
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-09,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-27,Dashen,Google Play,NEGATIVE,0.9996730089187622
+The system is down completely when I try to pay at a merchant counter.,1,2026-05-07,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-07,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-25,Dashen,Google Play,NEGATIVE,0.9997976422309875
+The user interface is confusing. It takes too many steps to send money.,2,2026-04-19,Dashen,Google Play,NEGATIVE,0.999772846698761
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-15,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Very slow authentication process. Fix the login screen loop.,1,2026-05-07,Dashen,Google Play,NEGATIVE,0.9994550347328186
+Easy to send money to other banks. Good work on the features.,4,2026-02-08,Dashen,Google Play,POSITIVE,0.9997137188911438
+Reliable app for daily banking transactions. Recommended.,4,2026-02-06,Dashen,Google Play,POSITIVE,0.9996591806411743
+"Good app, transfer speed is much faster now after the recent update.",4,2026-04-28,Dashen,Google Play,POSITIVE,0.9989547729492188
+Average app. It serves the basic purpose of checking balances.,3,2026-03-21,Dashen,Google Play,NEGATIVE,0.9823229908943176
+Love the new UI updates. Everything is seamless and responsive.,5,2026-02-26,Dashen,Google Play,POSITIVE,0.9998515844345093
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-08,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-13,Dashen,Google Play,POSITIVE,0.9696264863014221
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-13,Dashen,Google Play,POSITIVE,0.9998776912689209
+It is okay but Telebirr is much faster than this app interface.,3,2026-03-18,Dashen,Google Play,POSITIVE,0.9967328310012817
+Reliable app for daily banking transactions. Recommended.,4,2026-03-27,Dashen,Google Play,POSITIVE,0.9996591806411743
+Love the new UI updates. Everything is seamless and responsive.,5,2026-02-17,Dashen,Google Play,POSITIVE,0.9998515844345093
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-03,Dashen,Google Play,NEGATIVE,0.9996730089187622
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-12,Dashen,Google Play,POSITIVE,0.9696264863014221
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-11,Dashen,Google Play,POSITIVE,0.9696264863014221
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-04-28,Dashen,Google Play,POSITIVE,0.9997780919075012
+App features are okay but the notifications lag behind considerably.,2,2026-01-17,Dashen,Google Play,NEGATIVE,0.9940475225448608
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-09,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-02,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Very slow authentication process. Fix the login screen loop.,1,2026-05-10,Dashen,Google Play,NEGATIVE,0.9994550347328186
+Service is acceptable but transaction fees are getting too high.,3,2026-03-24,Dashen,Google Play,NEGATIVE,0.9991235136985779
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-05-03,Dashen,Google Play,POSITIVE,0.9998776912689209
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-07,Dashen,Google Play,POSITIVE,0.9696264863014221
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-30,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-22,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-13,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-08,Dashen,Google Play,POSITIVE,0.9998102784156799
+Very slow authentication process. Fix the login screen loop.,1,2026-05-07,Dashen,Google Play,NEGATIVE,0.9994550347328186
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-18,Dashen,Google Play,NEGATIVE,0.9988941550254822
+Super fast transaction processing. Saved me a lot of time.,5,2026-05-06,Dashen,Google Play,POSITIVE,0.9696264863014221
+App features are okay but the notifications lag behind considerably.,2,2026-02-24,Dashen,Google Play,NEGATIVE,0.9940475225448608
+Service is acceptable but transaction fees are getting too high.,3,2026-02-01,Dashen,Google Play,NEGATIVE,0.9991235136985779
+Easy to send money to other banks. Good work on the features.,4,2026-03-19,Dashen,Google Play,POSITIVE,0.9997137188911438
+Service is acceptable but transaction fees are getting too high.,3,2026-04-24,Dashen,Google Play,NEGATIVE,0.9991235136985779
+Reliable app for daily banking transactions. Recommended.,4,2026-01-23,Dashen,Google Play,POSITIVE,0.9996591806411743
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-07,Dashen,Google Play,POSITIVE,0.9998102784156799
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-15,Dashen,Google Play,POSITIVE,0.9989547729492188
+It is okay but Telebirr is much faster than this app interface.,3,2026-01-24,Dashen,Google Play,POSITIVE,0.9967328310012817
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-25,Dashen,Google Play,NEGATIVE,0.9988941550254822
+Transfer is fine but airtime topup is completely broken right now.,3,2026-02-01,Dashen,Google Play,NEGATIVE,0.9915052056312561
+Very slow authentication process. Fix the login screen loop.,1,2026-04-14,Dashen,Google Play,NEGATIVE,0.9994550347328186
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-29,Dashen,Google Play,POSITIVE,0.9998515844345093
+App features are okay but the notifications lag behind considerably.,2,2026-01-16,Dashen,Google Play,NEGATIVE,0.9940475225448608
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-01,Dashen,Google Play,POSITIVE,0.9998515844345093
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-04-25,Dashen,Google Play,NEGATIVE,0.9961382746696472
+Easy to send money to other banks. Good work on the features.,4,2026-01-13,Dashen,Google Play,POSITIVE,0.9997137188911438
+Average app. It serves the basic purpose of checking balances.,3,2026-01-18,Dashen,Google Play,NEGATIVE,0.9823229908943176
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-01-28,Dashen,Google Play,NEGATIVE,0.9989086389541626
+"Good app, transfer speed is much faster now after the recent update.",4,2026-01-13,Dashen,Google Play,POSITIVE,0.9989547729492188
+App features are okay but the notifications lag behind considerably.,2,2026-02-09,Dashen,Google Play,NEGATIVE,0.9940475225448608
+The system is down completely when I try to pay at a merchant counter.,1,2026-02-01,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Transfer is fine but airtime topup is completely broken right now.,3,2026-03-31,Dashen,Google Play,NEGATIVE,0.9915052056312561
+Love the new UI updates. Everything is seamless and responsive.,5,2026-05-04,Dashen,Google Play,POSITIVE,0.9998515844345093
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-20,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-09,Dashen,Google Play,NEGATIVE,0.9996730089187622
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-16,Dashen,Google Play,POSITIVE,0.9997780919075012
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-03,Dashen,Google Play,POSITIVE,0.9696264863014221
+It is okay but Telebirr is much faster than this app interface.,3,2026-05-03,Dashen,Google Play,POSITIVE,0.9967328310012817
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-11,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Love the new UI updates. Everything is seamless and responsive.,5,2026-02-12,Dashen,Google Play,POSITIVE,0.9998515844345093
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-15,Dashen,Google Play,NEGATIVE,0.9988941550254822
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-04,Dashen,Google Play,POSITIVE,0.9998102784156799
+It is okay but Telebirr is much faster than this app interface.,3,2026-01-30,Dashen,Google Play,POSITIVE,0.9967328310012817
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-02-21,Dashen,Google Play,POSITIVE,0.9998776912689209
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-06,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-01-22,Dashen,Google Play,POSITIVE,0.9994304776191711
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-29,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Very convenient for paying utility bills from home. Satisfied.,4,2026-05-07,Dashen,Google Play,POSITIVE,0.9979442954063416
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-14,Dashen,Google Play,POSITIVE,0.9998102784156799
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-04,Dashen,Google Play,POSITIVE,0.9989547729492188
+The user interface is confusing. It takes too many steps to send money.,2,2026-04-23,Dashen,Google Play,NEGATIVE,0.999772846698761
+Service is acceptable but transaction fees are getting too high.,3,2026-02-26,Dashen,Google Play,NEGATIVE,0.9991235136985779
+Very convenient for paying utility bills from home. Satisfied.,4,2026-01-02,Dashen,Google Play,POSITIVE,0.9979442954063416
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-23,Dashen,Google Play,POSITIVE,0.9998776912689209
+The user interface is confusing. It takes too many steps to send money.,2,2026-01-09,Dashen,Google Play,NEGATIVE,0.999772846698761
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-27,Dashen,Google Play,NEGATIVE,0.9984906911849976
+It is okay but Telebirr is much faster than this app interface.,3,2026-01-20,Dashen,Google Play,POSITIVE,0.9967328310012817
+The user interface is confusing. It takes too many steps to send money.,2,2026-04-12,Dashen,Google Play,NEGATIVE,0.999772846698761
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-17,Dashen,Google Play,NEGATIVE,0.9988941550254822
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-24,Dashen,Google Play,NEGATIVE,0.9915052056312561
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-01-16,Dashen,Google Play,NEGATIVE,0.9989086389541626
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-01-21,Dashen,Google Play,NEGATIVE,0.9973056316375732
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-02-14,Dashen,Google Play,NEGATIVE,0.9961382746696472
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-07,Dashen,Google Play,POSITIVE,0.9997780919075012
+It is okay but Telebirr is much faster than this app interface.,3,2026-02-22,Dashen,Google Play,POSITIVE,0.9967328310012817
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-23,Dashen,Google Play,POSITIVE,0.9998776912689209
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-10,Dashen,Google Play,POSITIVE,0.9998102784156799
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-25,Dashen,Google Play,POSITIVE,0.9998102784156799
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-21,Dashen,Google Play,POSITIVE,0.9997780919075012
+Reliable app for daily banking transactions. Recommended.,4,2026-03-02,Dashen,Google Play,POSITIVE,0.9996591806411743
+Average app. It serves the basic purpose of checking balances.,3,2026-04-28,Dashen,Google Play,NEGATIVE,0.9823229908943176
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-26,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Service is acceptable but transaction fees are getting too high.,3,2026-03-13,Dashen,Google Play,NEGATIVE,0.9991235136985779
+Easy to send money to other banks. Good work on the features.,4,2026-01-25,Dashen,Google Play,POSITIVE,0.9997137188911438
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-22,Dashen,Google Play,POSITIVE,0.9998776912689209
+The user interface is confusing. It takes too many steps to send money.,2,2026-04-18,Dashen,Google Play,NEGATIVE,0.999772846698761
+Very slow authentication process. Fix the login screen loop.,1,2026-02-02,Dashen,Google Play,NEGATIVE,0.9994550347328186
+Average app. It serves the basic purpose of checking balances.,3,2026-02-01,Dashen,Google Play,NEGATIVE,0.9823229908943176
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-13,Dashen,Google Play,POSITIVE,0.9998776912689209
+Transfer is fine but airtime topup is completely broken right now.,3,2026-05-03,Dashen,Google Play,NEGATIVE,0.9915052056312561
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-09,Dashen,Google Play,POSITIVE,0.9997780919075012
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-09,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-01-24,Dashen,Google Play,POSITIVE,0.9994304776191711
+App features are okay but the notifications lag behind considerably.,2,2026-03-24,Dashen,Google Play,NEGATIVE,0.9940475225448608
+It is okay but Telebirr is much faster than this app interface.,3,2026-03-16,Dashen,Google Play,POSITIVE,0.9967328310012817
+It is okay but Telebirr is much faster than this app interface.,3,2026-01-09,Dashen,Google Play,POSITIVE,0.9967328310012817
+Reliable app for daily banking transactions. Recommended.,4,2026-03-03,Dashen,Google Play,POSITIVE,0.9996591806411743
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-04-09,Dashen,Google Play,NEGATIVE,0.9973056316375732
+Easy to send money to other banks. Good work on the features.,4,2026-03-16,Dashen,Google Play,POSITIVE,0.9997137188911438
+App features are okay but the notifications lag behind considerably.,2,2026-04-21,Dashen,Google Play,NEGATIVE,0.9940475225448608
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-05-07,Dashen,Google Play,POSITIVE,0.9997780919075012
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-23,Dashen,Google Play,POSITIVE,0.9696264863014221
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-04,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-09,Dashen,Google Play,POSITIVE,0.9998515844345093
+Very convenient for paying utility bills from home. Satisfied.,4,2026-03-31,Dashen,Google Play,POSITIVE,0.9979442954063416
+App keeps crashing after the latest update. Very frustrating.,1,2026-05-08,Dashen,Google Play,NEGATIVE,0.9988941550254822
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-30,Dashen,Google Play,POSITIVE,0.9998102784156799
+Service is acceptable but transaction fees are getting too high.,3,2026-03-24,Dashen,Google Play,NEGATIVE,0.9991235136985779
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-02,Dashen,Google Play,NEGATIVE,0.9988941550254822
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-15,Dashen,Google Play,POSITIVE,0.9998102784156799
+Easy to send money to other banks. Good work on the features.,4,2026-01-07,Dashen,Google Play,POSITIVE,0.9997137188911438
+"Good app, transfer speed is much faster now after the recent update.",4,2026-03-28,Dashen,Google Play,POSITIVE,0.9989547729492188
+Easy to send money to other banks. Good work on the features.,4,2026-04-27,Dashen,Google Play,POSITIVE,0.9997137188911438
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-03-31,Dashen,Google Play,NEGATIVE,0.9989086389541626
+Very slow authentication process. Fix the login screen loop.,1,2026-04-12,Dashen,Google Play,NEGATIVE,0.9994550347328186
+It is okay but Telebirr is much faster than this app interface.,3,2026-02-24,Dashen,Google Play,POSITIVE,0.9967328310012817
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-03-19,Dashen,Google Play,NEGATIVE,0.9973056316375732
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-07,Dashen,Google Play,POSITIVE,0.9998515844345093
+Love the new UI updates. Everything is seamless and responsive.,5,2026-05-08,Dashen,Google Play,POSITIVE,0.9998515844345093
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-13,Dashen,Google Play,POSITIVE,0.9696264863014221
+"Good app, transfer speed is much faster now after the recent update.",4,2026-04-03,Dashen,Google Play,POSITIVE,0.9989547729492188
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-23,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-06,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-05,Dashen,Google Play,POSITIVE,0.9998102784156799
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-26,Dashen,Google Play,POSITIVE,0.9998515844345093
+The system is down completely when I try to pay at a merchant counter.,1,2026-05-01,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-20,Dashen,Google Play,NEGATIVE,0.9984906911849976
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-01-19,Dashen,Google Play,NEGATIVE,0.9989086389541626
+Takes too long to load my balance statement. Needs optimization.,2,2026-04-17,Dashen,Google Play,NEGATIVE,0.9996730089187622
+Love the new UI updates. Everything is seamless and responsive.,5,2026-02-15,Dashen,Google Play,POSITIVE,0.9998515844345093
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-23,Dashen,Google Play,POSITIVE,0.9998515844345093
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-02-18,Dashen,Google Play,NEGATIVE,0.9973056316375732
+"Good app, transfer speed is much faster now after the recent update.",4,2026-04-04,Dashen,Google Play,POSITIVE,0.9989547729492188
+Love the new UI updates. Everything is seamless and responsive.,5,2026-05-09,Dashen,Google Play,POSITIVE,0.9998515844345093
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-11,Dashen,Google Play,NEGATIVE,0.9997976422309875
+It is okay but Telebirr is much faster than this app interface.,3,2026-04-03,Dashen,Google Play,POSITIVE,0.9967328310012817
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-01-31,Dashen,Google Play,NEGATIVE,0.9989086389541626
+Average app. It serves the basic purpose of checking balances.,3,2026-02-16,Dashen,Google Play,NEGATIVE,0.9823229908943176
+Average app. It serves the basic purpose of checking balances.,3,2026-02-12,Dashen,Google Play,NEGATIVE,0.9823229908943176
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-02-04,Dashen,Google Play,NEGATIVE,0.9989086389541626
+The user interface is confusing. It takes too many steps to send money.,2,2026-02-18,Dashen,Google Play,NEGATIVE,0.999772846698761
+Reliable app for daily banking transactions. Recommended.,4,2026-04-26,Dashen,Google Play,POSITIVE,0.9996591806411743
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-21,Dashen,Google Play,POSITIVE,0.9998102784156799
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-16,Dashen,Google Play,POSITIVE,0.9696264863014221
+Super fast transaction processing. Saved me a lot of time.,5,2026-04-27,Dashen,Google Play,POSITIVE,0.9696264863014221
+"Good app, transfer speed is much faster now after the recent update.",4,2026-03-26,Dashen,Google Play,POSITIVE,0.9989547729492188
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-02-27,Dashen,Google Play,NEGATIVE,0.9973056316375732
+It is okay but Telebirr is much faster than this app interface.,3,2026-03-11,Dashen,Google Play,POSITIVE,0.9967328310012817
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-01,Dashen,Google Play,POSITIVE,0.9998776912689209
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-03-11,Dashen,Google Play,POSITIVE,0.9994304776191711
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-16,Dashen,Google Play,NEGATIVE,0.9988941550254822
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-22,Dashen,Google Play,POSITIVE,0.9997780919075012
+Service is acceptable but transaction fees are getting too high.,3,2026-04-03,Dashen,Google Play,NEGATIVE,0.9991235136985779
+Easy to send money to other banks. Good work on the features.,4,2026-02-02,Dashen,Google Play,POSITIVE,0.9997137188911438
+Transfer is fine but airtime topup is completely broken right now.,3,2026-01-12,Dashen,Google Play,NEGATIVE,0.9915052056312561
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-10,Dashen,Google Play,POSITIVE,0.9998102784156799
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-04-15,Dashen,Google Play,POSITIVE,0.9998102784156799
+Easy to send money to other banks. Good work on the features.,4,2026-03-17,Dashen,Google Play,POSITIVE,0.9997137188911438
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-13,Dashen,Google Play,NEGATIVE,0.9915052056312561
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-27,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Love the new UI updates. Everything is seamless and responsive.,5,2026-01-17,Dashen,Google Play,POSITIVE,0.9998515844345093
+The system is down completely when I try to pay at a merchant counter.,1,2026-04-05,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-20,Dashen,Google Play,POSITIVE,0.9997780919075012
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-02-17,Dashen,Google Play,POSITIVE,0.9998776912689209
+Very slow authentication process. Fix the login screen loop.,1,2026-04-25,Dashen,Google Play,NEGATIVE,0.9994550347328186
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-03-24,Dashen,Google Play,NEGATIVE,0.9989086389541626
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-07,Dashen,Google Play,NEGATIVE,0.9996730089187622
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-12,Dashen,Google Play,NEGATIVE,0.9997976422309875
+It is okay but Telebirr is much faster than this app interface.,3,2026-04-16,Dashen,Google Play,POSITIVE,0.9967328310012817
+Reliable app for daily banking transactions. Recommended.,4,2026-01-23,Dashen,Google Play,POSITIVE,0.9996591806411743
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-22,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-01-30,Dashen,Google Play,NEGATIVE,0.9961382746696472
+The system is down completely when I try to pay at a merchant counter.,1,2026-04-12,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-12,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-02-09,Dashen,Google Play,POSITIVE,0.9994304776191711
+App features are okay but the notifications lag behind considerably.,2,2026-01-26,Dashen,Google Play,NEGATIVE,0.9940475225448608
+Super fast transaction processing. Saved me a lot of time.,5,2026-04-12,Dashen,Google Play,POSITIVE,0.9696264863014221
+App features are okay but the notifications lag behind considerably.,2,2026-01-03,Dashen,Google Play,NEGATIVE,0.9940475225448608
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-15,Dashen,Google Play,NEGATIVE,0.9988941550254822
+The system is down completely when I try to pay at a merchant counter.,1,2026-01-04,Dashen,Google Play,NEGATIVE,0.9997826218605042
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-03-04,Dashen,Google Play,NEGATIVE,0.9973056316375732
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-26,Dashen,Google Play,POSITIVE,0.9998776912689209
+Service is acceptable but transaction fees are getting too high.,3,2026-05-08,Dashen,Google Play,NEGATIVE,0.9991235136985779
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-09,Dashen,Google Play,POSITIVE,0.9997780919075012
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-09,Dashen,Google Play,POSITIVE,0.9998776912689209
+Very slow authentication process. Fix the login screen loop.,1,2026-02-26,Dashen,Google Play,NEGATIVE,0.9994550347328186
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-12,Dashen,Google Play,NEGATIVE,0.9988941550254822
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-23,Dashen,Google Play,POSITIVE,0.9998102784156799
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-03-20,Dashen,Google Play,NEGATIVE,0.9961382746696472
+App keeps crashing after the latest update. Very frustrating.,1,2026-01-10,Dashen,Google Play,NEGATIVE,0.9988941550254822
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-22,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Easy to send money to other banks. Good work on the features.,4,2026-02-15,Dashen,Google Play,POSITIVE,0.9997137188911438
+It is okay but Telebirr is much faster than this app interface.,3,2026-04-02,Dashen,Google Play,POSITIVE,0.9967328310012817
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-19,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-16,Dashen,Google Play,POSITIVE,0.9997780919075012
+Average app. It serves the basic purpose of checking balances.,3,2026-01-28,Dashen,Google Play,NEGATIVE,0.9823229908943176
+Reliable app for daily banking transactions. Recommended.,4,2026-02-03,Dashen,Google Play,POSITIVE,0.9996591806411743
+Average app. It serves the basic purpose of checking balances.,3,2026-03-20,Dashen,Google Play,NEGATIVE,0.9823229908943176
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-13,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-30,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Takes too long to load my balance statement. Needs optimization.,2,2026-03-15,Dashen,Google Play,NEGATIVE,0.9996730089187622
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-14,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-02,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-06,Dashen,Google Play,POSITIVE,0.9998102784156799
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-04-15,Dashen,Google Play,POSITIVE,0.9994304776191711
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-16,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-02-07,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-14,Dashen,Google Play,NEGATIVE,0.9915052056312561
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-07,Dashen,Google Play,NEGATIVE,0.9915052056312561
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-04-22,Dashen,Google Play,NEGATIVE,0.9973056316375732
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-27,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-25,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-14,Dashen,Google Play,POSITIVE,0.9998515844345093
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-11,Dashen,Google Play,POSITIVE,0.9998102784156799
+App features are okay but the notifications lag behind considerably.,2,2026-05-11,Dashen,Google Play,NEGATIVE,0.9940475225448608
+Average app. It serves the basic purpose of checking balances.,3,2026-02-01,Dashen,Google Play,NEGATIVE,0.9823229908943176
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-01-08,Dashen,Google Play,NEGATIVE,0.9973056316375732
+Average app. It serves the basic purpose of checking balances.,3,2026-04-07,Dashen,Google Play,NEGATIVE,0.9823229908943176
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-05-09,Dashen,Google Play,POSITIVE,0.9998776912689209
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-05-05,Dashen,Google Play,POSITIVE,0.9998776912689209
+App features are okay but the notifications lag behind considerably.,2,2026-03-13,Dashen,Google Play,NEGATIVE,0.9940475225448608
+Transfer is fine but airtime topup is completely broken right now.,3,2026-01-09,Dashen,Google Play,NEGATIVE,0.9915052056312561
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-30,Dashen,Google Play,NEGATIVE,0.9997826218605042
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-05-09,Dashen,Google Play,NEGATIVE,0.9973056316375732
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-03-10,Dashen,Google Play,NEGATIVE,0.9961382746696472
+The system is down completely when I try to pay at a merchant counter.,1,2026-05-07,Dashen,Google Play,NEGATIVE,0.9997826218605042
+The system is down completely when I try to pay at a merchant counter.,1,2026-01-15,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-02,Dashen,Google Play,POSITIVE,0.9998776912689209
+Transfer is fine but airtime topup is completely broken right now.,3,2026-01-23,Dashen,Google Play,NEGATIVE,0.9915052056312561
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-23,Dashen,Google Play,POSITIVE,0.9998776912689209
+App features are okay but the notifications lag behind considerably.,2,2026-03-14,Dashen,Google Play,NEGATIVE,0.9940475225448608
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-21,Dashen,Google Play,POSITIVE,0.9998776912689209
+"Good app, transfer speed is much faster now after the recent update.",4,2026-02-10,Dashen,Google Play,POSITIVE,0.9989547729492188
+Transfer is fine but airtime topup is completely broken right now.,3,2026-01-31,Dashen,Google Play,NEGATIVE,0.9915052056312561
+Very convenient for paying utility bills from home. Satisfied.,4,2026-01-22,Dashen,Google Play,POSITIVE,0.9979442954063416
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-14,Dashen,Google Play,NEGATIVE,0.9996730089187622
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-14,Dashen,Google Play,POSITIVE,0.9997780919075012
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-04,Dashen,Google Play,POSITIVE,0.9997780919075012
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-04,Dashen,Google Play,POSITIVE,0.9696264863014221
+Love the new UI updates. Everything is seamless and responsive.,5,2026-01-01,Dashen,Google Play,POSITIVE,0.9998515844345093
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-25,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-10,Dashen,Google Play,NEGATIVE,0.9915052056312561
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-13,Dashen,Google Play,POSITIVE,0.9997780919075012
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-05-01,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-18,Dashen,Google Play,POSITIVE,0.9998102784156799
+Love the new UI updates. Everything is seamless and responsive.,5,2026-01-06,Dashen,Google Play,POSITIVE,0.9998515844345093
+Very slow authentication process. Fix the login screen loop.,1,2026-02-17,Dashen,Google Play,NEGATIVE,0.9994550347328186
+Reliable app for daily banking transactions. Recommended.,4,2026-03-15,Dashen,Google Play,POSITIVE,0.9996591806411743
+"Good app, transfer speed is much faster now after the recent update.",4,2026-03-21,Dashen,Google Play,POSITIVE,0.9989547729492188
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-13,Dashen,Google Play,POSITIVE,0.9998102784156799
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-01,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-01,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Average app. It serves the basic purpose of checking balances.,3,2026-01-01,Dashen,Google Play,NEGATIVE,0.9823229908943176
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-13,Dashen,Google Play,NEGATIVE,0.9988941550254822
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-07,Dashen,Google Play,NEGATIVE,0.9997826218605042
+"Good app, transfer speed is much faster now after the recent update.",4,2026-04-25,Dashen,Google Play,POSITIVE,0.9989547729492188
+The user interface is confusing. It takes too many steps to send money.,2,2026-03-20,Dashen,Google Play,NEGATIVE,0.999772846698761
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-02-02,Dashen,Google Play,POSITIVE,0.9994304776191711
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-07,Dashen,Google Play,NEGATIVE,0.9997976422309875
+The user interface is confusing. It takes too many steps to send money.,2,2026-01-08,Dashen,Google Play,NEGATIVE,0.999772846698761
+App keeps crashing after the latest update. Very frustrating.,1,2026-01-21,Dashen,Google Play,NEGATIVE,0.9988941550254822
+The system is down completely when I try to pay at a merchant counter.,1,2026-01-09,Dashen,Google Play,NEGATIVE,0.9997826218605042
+"Good app, transfer speed is much faster now after the recent update.",4,2026-03-28,Dashen,Google Play,POSITIVE,0.9989547729492188
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-04-05,Dashen,Google Play,POSITIVE,0.9997780919075012
+Transfer is fine but airtime topup is completely broken right now.,3,2026-03-15,Dashen,Google Play,NEGATIVE,0.9915052056312561
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-27,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-05-06,Dashen,Google Play,POSITIVE,0.9994304776191711
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-15,Dashen,Google Play,POSITIVE,0.9997780919075012
+Very convenient for paying utility bills from home. Satisfied.,4,2026-01-20,Dashen,Google Play,POSITIVE,0.9979442954063416
+Service is acceptable but transaction fees are getting too high.,3,2026-04-23,Dashen,Google Play,NEGATIVE,0.9991235136985779
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-25,Dashen,Google Play,POSITIVE,0.9997780919075012
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-07,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Easy to send money to other banks. Good work on the features.,4,2026-04-15,Dashen,Google Play,POSITIVE,0.9997137188911438
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-05-07,Dashen,Google Play,POSITIVE,0.9997780919075012
+The user interface is confusing. It takes too many steps to send money.,2,2026-02-19,Dashen,Google Play,NEGATIVE,0.999772846698761
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-08,Dashen,Google Play,POSITIVE,0.9997780919075012
+Easy to send money to other banks. Good work on the features.,4,2026-03-02,Dashen,Google Play,POSITIVE,0.9997137188911438
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-05-02,Dashen,Google Play,NEGATIVE,0.9961382746696472
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-21,Dashen,Google Play,POSITIVE,0.9696264863014221
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-02-25,Dashen,Google Play,POSITIVE,0.9998776912689209
+Service is acceptable but transaction fees are getting too high.,3,2026-02-12,Dashen,Google Play,NEGATIVE,0.9991235136985779
+Transfer is fine but airtime topup is completely broken right now.,3,2026-02-17,Dashen,Google Play,NEGATIVE,0.9915052056312561
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-03-24,Dashen,Google Play,POSITIVE,0.9994304776191711
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-26,Dashen,Google Play,POSITIVE,0.9696264863014221
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-22,Dashen,Google Play,POSITIVE,0.9997780919075012
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-06,Dashen,Google Play,POSITIVE,0.9998776912689209
+The system is down completely when I try to pay at a merchant counter.,1,2026-04-12,Dashen,Google Play,NEGATIVE,0.9997826218605042
+App keeps crashing after the latest update. Very frustrating.,1,2026-04-04,Dashen,Google Play,NEGATIVE,0.9988941550254822
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-04-28,Dashen,Google Play,NEGATIVE,0.9989086389541626
+Takes too long to load my balance statement. Needs optimization.,2,2026-02-14,Dashen,Google Play,NEGATIVE,0.9996730089187622
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-04,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Super fast transaction processing. Saved me a lot of time.,5,2026-04-26,Dashen,Google Play,POSITIVE,0.9696264863014221
+App features are okay but the notifications lag behind considerably.,2,2026-01-06,Dashen,Google Play,NEGATIVE,0.9940475225448608
+Very convenient for paying utility bills from home. Satisfied.,4,2026-03-22,Dashen,Google Play,POSITIVE,0.9979442954063416
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-05-10,Dashen,Google Play,NEGATIVE,0.9961382746696472
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-01-02,Dashen,Google Play,NEGATIVE,0.9961382746696472
+Service is acceptable but transaction fees are getting too high.,3,2026-01-16,Dashen,Google Play,NEGATIVE,0.9991235136985779
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-16,Dashen,Google Play,POSITIVE,0.9998515844345093
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-01-09,Dashen,Google Play,NEGATIVE,0.9989086389541626
+Easy to send money to other banks. Good work on the features.,4,2026-02-13,Dashen,Google Play,POSITIVE,0.9997137188911438
+Takes too long to load my balance statement. Needs optimization.,2,2026-04-11,Dashen,Google Play,NEGATIVE,0.9996730089187622
+Very slow authentication process. Fix the login screen loop.,1,2026-03-03,Dashen,Google Play,NEGATIVE,0.9994550347328186
+Easy to send money to other banks. Good work on the features.,4,2026-01-08,Dashen,Google Play,POSITIVE,0.9997137188911438
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-14,Dashen,Google Play,POSITIVE,0.9998515844345093
+Service is acceptable but transaction fees are getting too high.,3,2026-02-19,Dashen,Google Play,NEGATIVE,0.9991235136985779
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-02-27,Dashen,Google Play,POSITIVE,0.9998776912689209
+Easy to send money to other banks. Good work on the features.,4,2026-05-05,Dashen,Google Play,POSITIVE,0.9997137188911438
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-21,Dashen,Google Play,NEGATIVE,0.9915052056312561
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-14,Dashen,Google Play,POSITIVE,0.9696264863014221
+Easy to send money to other banks. Good work on the features.,4,2026-04-16,Dashen,Google Play,POSITIVE,0.9997137188911438
+Reliable app for daily banking transactions. Recommended.,4,2026-02-18,Dashen,Google Play,POSITIVE,0.9996591806411743
+Transfer is fine but airtime topup is completely broken right now.,3,2026-04-07,Dashen,Google Play,NEGATIVE,0.9915052056312561
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-25,Dashen,Google Play,POSITIVE,0.9997780919075012
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-02-01,Dashen,Google Play,NEGATIVE,0.9961382746696472
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-02-07,Dashen,Google Play,POSITIVE,0.9994304776191711
+Love the new UI updates. Everything is seamless and responsive.,5,2026-01-19,Dashen,Google Play,POSITIVE,0.9998515844345093
+Service is acceptable but transaction fees are getting too high.,3,2026-03-13,Dashen,Google Play,NEGATIVE,0.9991235136985779
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-28,Dashen,Google Play,POSITIVE,0.9998776912689209
+Love the new UI updates. Everything is seamless and responsive.,5,2026-01-07,Dashen,Google Play,POSITIVE,0.9998515844345093
+Easy to send money to other banks. Good work on the features.,4,2026-02-19,Dashen,Google Play,POSITIVE,0.9997137188911438
+"Good app, transfer speed is much faster now after the recent update.",4,2026-05-05,Dashen,Google Play,POSITIVE,0.9989547729492188
+Love the new UI updates. Everything is seamless and responsive.,5,2026-04-21,Dashen,Google Play,POSITIVE,0.9998515844345093
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-26,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Reliable app for daily banking transactions. Recommended.,4,2026-05-07,Dashen,Google Play,POSITIVE,0.9996591806411743
+App keeps crashing after the latest update. Very frustrating.,1,2026-01-08,Dashen,Google Play,NEGATIVE,0.9988941550254822
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-10,Dashen,Google Play,NEGATIVE,0.9988941550254822
+Service is acceptable but transaction fees are getting too high.,3,2026-01-15,Dashen,Google Play,NEGATIVE,0.9991235136985779
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-01-13,Dashen,Google Play,NEGATIVE,0.9973056316375732
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-04-02,Dashen,Google Play,NEGATIVE,0.9997976422309875
+"It works sometimes, but mostly gives a connection timeout error.",2,2026-02-12,Dashen,Google Play,NEGATIVE,0.9973056316375732
+Average app. It serves the basic purpose of checking balances.,3,2026-02-05,Dashen,Google Play,NEGATIVE,0.9823229908943176
+The system is down completely when I try to pay at a merchant counter.,1,2026-01-27,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-01-22,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Super fast transaction processing. Saved me a lot of time.,5,2026-04-09,Dashen,Google Play,POSITIVE,0.9696264863014221
+App features are okay but the notifications lag behind considerably.,2,2026-03-17,Dashen,Google Play,NEGATIVE,0.9940475225448608
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-02,Dashen,Google Play,POSITIVE,0.9696264863014221
+Transfer is fine but airtime topup is completely broken right now.,3,2026-01-05,Dashen,Google Play,NEGATIVE,0.9915052056312561
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-04-24,Dashen,Google Play,POSITIVE,0.9997780919075012
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-23,Dashen,Google Play,POSITIVE,0.9998515844345093
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-08,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-04-05,Dashen,Google Play,POSITIVE,0.9994304776191711
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-03-09,Dashen,Google Play,POSITIVE,0.9998776912689209
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-27,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Worst app ever. OTP code takes forever to arrive on my phone.,1,2026-03-09,Dashen,Google Play,NEGATIVE,0.9997976422309875
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-01-15,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-03-02,Dashen,Google Play,POSITIVE,0.9994304776191711
+Very slow authentication process. Fix the login screen loop.,1,2026-03-17,Dashen,Google Play,NEGATIVE,0.9994550347328186
+Easy to send money to other banks. Good work on the features.,4,2026-03-19,Dashen,Google Play,POSITIVE,0.9997137188911438
+App features are okay but the notifications lag behind considerably.,2,2026-03-27,Dashen,Google Play,NEGATIVE,0.9940475225448608
+"Good app, transfer speed is much faster now after the recent update.",4,2026-05-04,Dashen,Google Play,POSITIVE,0.9989547729492188
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-05-08,Dashen,Google Play,NEGATIVE,0.9984906911849976
+It is okay but Telebirr is much faster than this app interface.,3,2026-03-24,Dashen,Google Play,POSITIVE,0.9967328310012817
+Average app. It serves the basic purpose of checking balances.,3,2026-02-15,Dashen,Google Play,NEGATIVE,0.9823229908943176
+Very slow authentication process. Fix the login screen loop.,1,2026-05-11,Dashen,Google Play,NEGATIVE,0.9994550347328186
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-04-29,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Average app. It serves the basic purpose of checking balances.,3,2026-04-23,Dashen,Google Play,NEGATIVE,0.9823229908943176
+Very convenient for paying utility bills from home. Satisfied.,4,2026-05-10,Dashen,Google Play,POSITIVE,0.9979442954063416
+The mobile app transfers fail often. Customer service doesn't help.,2,2026-04-18,Dashen,Google Play,NEGATIVE,0.9989086389541626
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-03,Dashen,Google Play,NEGATIVE,0.9997826218605042
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-04,Dashen,Google Play,NEGATIVE,0.9988941550254822
+The system is down completely when I try to pay at a merchant counter.,1,2026-04-13,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-20,Dashen,Google Play,POSITIVE,0.9998776912689209
+Very slow authentication process. Fix the login screen loop.,1,2026-04-16,Dashen,Google Play,NEGATIVE,0.9994550347328186
+It is okay but Telebirr is much faster than this app interface.,3,2026-03-20,Dashen,Google Play,POSITIVE,0.9967328310012817
+The system is down completely when I try to pay at a merchant counter.,1,2026-01-21,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Easy to send money to other banks. Good work on the features.,4,2026-02-03,Dashen,Google Play,POSITIVE,0.9997137188911438
+Very slow authentication process. Fix the login screen loop.,1,2026-04-23,Dashen,Google Play,NEGATIVE,0.9994550347328186
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-05-07,Dashen,Google Play,POSITIVE,0.9998102784156799
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-02-03,Dashen,Google Play,POSITIVE,0.9998102784156799
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-03-13,Dashen,Google Play,POSITIVE,0.9998102784156799
+The user interface is confusing. It takes too many steps to send money.,2,2026-04-28,Dashen,Google Play,NEGATIVE,0.999772846698761
+The system is down completely when I try to pay at a merchant counter.,1,2026-03-31,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-01-16,Dashen,Google Play,POSITIVE,0.9998776912689209
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-02-13,Dashen,Google Play,NEGATIVE,0.9961382746696472
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-05,Dashen,Google Play,POSITIVE,0.9997780919075012
+App keeps crashing after the latest update. Very frustrating.,1,2026-02-22,Dashen,Google Play,NEGATIVE,0.9988941550254822
+Easy to send money to other banks. Good work on the features.,4,2026-05-09,Dashen,Google Play,POSITIVE,0.9997137188911438
+Very slow authentication process. Fix the login screen loop.,1,2026-04-15,Dashen,Google Play,NEGATIVE,0.9994550347328186
+Service is acceptable but transaction fees are getting too high.,3,2026-01-17,Dashen,Google Play,NEGATIVE,0.9991235136985779
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-23,Dashen,Google Play,POSITIVE,0.9998776912689209
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-08,Dashen,Google Play,POSITIVE,0.9998776912689209
+Takes too long to load my balance statement. Needs optimization.,2,2026-03-15,Dashen,Google Play,NEGATIVE,0.9996730089187622
+Super fast transaction processing. Saved me a lot of time.,5,2026-03-22,Dashen,Google Play,POSITIVE,0.9696264863014221
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-20,Dashen,Google Play,POSITIVE,0.9997780919075012
+The system is down completely when I try to pay at a merchant counter.,1,2026-01-01,Dashen,Google Play,NEGATIVE,0.9997826218605042
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-17,Dashen,Google Play,NEGATIVE,0.9996730089187622
+Super fast transaction processing. Saved me a lot of time.,5,2026-01-31,Dashen,Google Play,POSITIVE,0.9696264863014221
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-03-19,Dashen,Google Play,NEGATIVE,0.9984906911849976
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-04-13,Dashen,Google Play,POSITIVE,0.9998776912689209
+Very convenient for paying utility bills from home. Satisfied.,4,2026-04-28,Dashen,Google Play,POSITIVE,0.9979442954063416
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-28,Dashen,Google Play,POSITIVE,0.9998515844345093
+Reliable app for daily banking transactions. Recommended.,4,2026-03-18,Dashen,Google Play,POSITIVE,0.9996591806411743
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-04-16,Dashen,Google Play,NEGATIVE,0.9961382746696472
+Reliable app for daily banking transactions. Recommended.,4,2026-01-21,Dashen,Google Play,POSITIVE,0.9996591806411743
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-04,Dashen,Google Play,NEGATIVE,0.9988941550254822
+It is okay but Telebirr is much faster than this app interface.,3,2026-04-06,Dashen,Google Play,POSITIVE,0.9967328310012817
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-03,Dashen,Google Play,POSITIVE,0.9997780919075012
+Very convenient for paying utility bills from home. Satisfied.,4,2026-03-22,Dashen,Google Play,POSITIVE,0.9979442954063416
+App keeps crashing after the latest update. Very frustrating.,1,2026-03-25,Dashen,Google Play,NEGATIVE,0.9988941550254822
+It is okay but Telebirr is much faster than this app interface.,3,2026-01-06,Dashen,Google Play,POSITIVE,0.9967328310012817
+The user interface is confusing. It takes too many steps to send money.,2,2026-02-25,Dashen,Google Play,NEGATIVE,0.999772846698761
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-12,Dashen,Google Play,POSITIVE,0.9997780919075012
+Fantastic banking experience. Transactions are instant and reliable.,5,2026-02-13,Dashen,Google Play,POSITIVE,0.9998776912689209
+Takes too long to load my balance statement. Needs optimization.,2,2026-01-26,Dashen,Google Play,NEGATIVE,0.9996730089187622
+Excellent mobile application! Best fintech app in Ethiopia right now.,5,2026-01-27,Dashen,Google Play,POSITIVE,0.9998102784156799
+Reliable app for daily banking transactions. Recommended.,4,2026-02-24,Dashen,Google Play,POSITIVE,0.9996591806411743
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-03-20,Dashen,Google Play,POSITIVE,0.9997780919075012
+Easy to send money to other banks. Good work on the features.,4,2026-02-03,Dashen,Google Play,POSITIVE,0.9997137188911438
+Unable to transfer money. It says transaction failed but takes my balance.,1,2026-02-18,Dashen,Google Play,NEGATIVE,0.9984906911849976
+The system is down completely when I try to pay at a merchant counter.,1,2026-02-21,Dashen,Google Play,NEGATIVE,0.9997826218605042
+It is okay but Telebirr is much faster than this app interface.,3,2026-02-18,Dashen,Google Play,POSITIVE,0.9967328310012817
+Takes too long to load my balance statement. Needs optimization.,2,2026-04-15,Dashen,Google Play,NEGATIVE,0.9996730089187622
+The user interface is confusing. It takes too many steps to send money.,2,2026-04-30,Dashen,Google Play,NEGATIVE,0.999772846698761
+The user interface is confusing. It takes too many steps to send money.,2,2026-02-25,Dashen,Google Play,NEGATIVE,0.999772846698761
+Average app. It serves the basic purpose of checking balances.,3,2026-01-16,Dashen,Google Play,NEGATIVE,0.9823229908943176
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-02-23,Dashen,Google Play,POSITIVE,0.9997780919075012
+Transfer is fine but airtime topup is completely broken right now.,3,2026-03-28,Dashen,Google Play,NEGATIVE,0.9915052056312561
+Highly secure and extremely user friendly interface. Perfect job.,5,2026-01-03,Dashen,Google Play,POSITIVE,0.9997780919075012
+App features are okay but the notifications lag behind considerably.,2,2026-02-12,Dashen,Google Play,NEGATIVE,0.9940475225448608
+Super fast transaction processing. Saved me a lot of time.,5,2026-02-09,Dashen,Google Play,POSITIVE,0.9696264863014221
+Easy to send money to other banks. Good work on the features.,4,2026-01-28,Dashen,Google Play,POSITIVE,0.9997137188911438
+Very slow authentication process. Fix the login screen loop.,1,2026-04-02,Dashen,Google Play,NEGATIVE,0.9994550347328186
+Love the new UI updates. Everything is seamless and responsive.,5,2026-03-27,Dashen,Google Play,POSITIVE,0.9998515844345093
+Works smoothly on my phone. Fingerprint login is a great addition.,4,2026-03-02,Dashen,Google Play,POSITIVE,0.9994304776191711
+Decent app but needs a dark mode option and a better dashboard layout.,3,2026-01-15,Dashen,Google Play,NEGATIVE,0.9961382746696472
