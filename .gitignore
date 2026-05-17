@@ -1,4 +1,10 @@
-data/
+# Ignore data directories generally
+data/raw/
+
+# Ignore processed directory but explicitly allow evidence metrics
+data/processed/*
+!data/processed/sentiment_results.csv
+!data/processed/thematic_trends.csv
 *.csv
 *.db
 __pycache__/
