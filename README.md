@@ -38,20 +38,25 @@ fintech-review-analytics/
     ├── analyze_sentiment.py    # Task 2: DistilBERT Sentiment & Thematic analysis
     ├── insert_data.py          # Task 3: PostgreSQL Secure Ingestion Pipe
     └── generate_insights.py    # Task 4: Seaborn Stakeholder Visual Planner
-  ```
+   ```
+   
 ## 🛠️ Setup and Installation
 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Solih06/fintech-review-analytics.git](https://github.com/Solih06/fintech-review-analytics.git)
    cd fintech-review-analytics
+   ```
 2. **Set up Virtual Environment (On Windows PowerShell/CMD):** 
    ```bash
   python -m venv venv
 .\venv\Scripts\activate
+   ```
+   ```
 3. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
+   ```
 
 ## 🔒 Security Compliance & Environment Setup
 
