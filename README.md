@@ -49,8 +49,8 @@ fintech-review-analytics/
    ```
 2. **Set up Virtual Environment (On Windows PowerShell/CMD):** 
    ```bash
-  python -m venv venv
-  .\venv\Scripts\activate
+   python -m venv venv
+   .\venv\Scripts\activate
    ```
   
 3. **Install dependencies:**
