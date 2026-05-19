@@ -50,9 +50,9 @@ fintech-review-analytics/
 2. **Set up Virtual Environment (On Windows PowerShell/CMD):** 
    ```bash
   python -m venv venv
-.\venv\Scripts\activate
+  .\venv\Scripts\activate
    ```
-   ```
+  
 3. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
@@ -138,21 +138,21 @@ The machine learning pipeline handles a deep learning sequence-classification pa
 
 By filtering down the critical negative reviews, the tracking pipeline automatically isolates text metrics and computes statistical keyword frequencies to track structural customer friction across apps. The top extracted failure themes include:
 
-    Transactional Latency: High frequencies of system payment timeouts, network lagging, and slow backend confirmations.
+  Transactional Latency: High frequencies of system payment timeouts, network lagging, and slow backend confirmations.
 
-    Authentication Friction: Recurring user drop-offs linked to severe delays in automated OTP generation.
+  Authentication Friction: Recurring user drop-offs linked to severe delays in automated OTP generation.
 
-    Account Sync Discrepancies: User interface reporting lag on real-time balance updates during peak traffic hours
+  Account Sync Discrepancies: User interface reporting lag on real-time balance updates during peak traffic hours
 
 3. **Analysis Outputs and System Limitations**
 
 While the current DistilBERT model demonstrates high efficiency, the analysis pipeline operates under the following design limitations:
 
-    Linguistic Code-Switching Constraint: The model is optimized for English text. In the Ethiopian fintech market, many users write reviews using a blend of Amharic phrases written in Latin script (Fidel transliteration/Amharic-English code-switching). These hybrid nuances can skew model prediction weights.
+  Linguistic Code-Switching Constraint: The model is optimized for English text. In the Ethiopian fintech market, many users write reviews using a blend of Amharic phrases written in Latin script (Fidel transliteration/Amharic-English code-switching). These hybrid nuances can skew model prediction weights.
 
-    Sarcasm and Contextual Blindness: Fine-grained sentiment layers can occasionally misinterpret contextual sarcasm (e.g., "Great app, it only crashes five times a day!") as positive feedback.
+  Sarcasm and Contextual Blindness: Fine-grained sentiment layers can occasionally misinterpret contextual sarcasm (e.g., "Great app, it only crashes five times a day!") as positive feedback.
 
-    Binary Sentiment Boundary: The core configuration maps data directly into binary categories (POSITIVE / NEGATIVE), which under-represents subtle, informational NEUTRAL feedback loops.
+  Binary Sentiment Boundary: The core configuration maps data directly into binary categories (POSITIVE / NEGATIVE), which under-represents subtle, informational NEUTRAL feedback loops.
 
 ## 📈 Executive Visualizations
 
