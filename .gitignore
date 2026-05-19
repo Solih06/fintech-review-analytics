@@ -1,6 +1,5 @@
 # Ignore data directories generally
 data/raw/
-
 # Ignore processed directory but explicitly allow evidence metrics
 data/processed/*
 !data/processed/sentiment_results.csv
@@ -9,4 +8,9 @@ data/processed/*
 *.db
 __pycache__/
 .venv/
+# Sensitive local environment variables
 .env
+
+# Python caching footprints
+__pycache__/
+*.pyc
