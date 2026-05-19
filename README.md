@@ -93,6 +93,14 @@ The machine learning pipeline handles a deep learning sequence-classification pa
 * **Full Classified Output:** Saved at `data/processed/sentiment_results.csv` (contains full text arrays mapped alongside model predictive labels and explicit prediction weights).
 * **Thematic Summary Metric Matrix:** Saved at `data/processed/thematic_trends.csv` (contains the frequency tracking of critical failure points).
 
+#### Full Review Set Sentiment Distribution Metrics:
+| Target Bank | Total Processed Reviews | Positive Predictions | Negative Predictions | Positive Sentiment % |
+| :--- | :---: | :---: | :---: | :---: |
+| **CBE** | 500 | 246 | 254 | 49.20% |
+| **BOA** | 500 | 234 | 266 | 46.80% |
+| **Dashen** | 500 | 242 | 258 | 48.40% |
+| **Total Set** | **1,500** | **722** | **778** | **48.13%** |
+
 ### 2. Implementation of Thematic Analysis & Theme Extraction
 By filtering down the critical negative reviews, the tracking pipeline automatically isolates text metrics and computes statistical keyword frequencies to track structural customer friction across apps. The top extracted failure themes include:
 * **Transactional Latency:** High frequencies of system payment timeouts, network lagging, and slow backend confirmations.
