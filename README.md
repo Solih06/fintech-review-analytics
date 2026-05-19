@@ -153,6 +153,26 @@ While the current DistilBERT model demonstrates high efficiency, the analysis pi
   Sarcasm and Contextual Blindness: Fine-grained sentiment layers can occasionally misinterpret contextual sarcasm (e.g., "Great app, it only crashes five times a day!") as positive feedback.
 
   Binary Sentiment Boundary: The core configuration maps data directly into binary categories (POSITIVE / NEGATIVE), which under-represents subtle, informational NEUTRAL feedback loops.
+---
+
+## 📈 Executive Performance Report & Analytical Insights (Task 4)
+
+### 🏢 Bank-Specific Performance Deep-Dives
+
+#### 1. Commercial Bank of Ethiopia (CBE Birr / Mobile App)
+* **Core Satisfaction Drivers:** Unrivaled peer-to-peer (P2P) merchant liquidity and massive regional ecosystem adoption. Users express strong affinity for transfer execution speeds when internal infrastructure is stable.
+* **Critical Operational Pain Points:** Severe transaction timeout thresholds and account sync latency during high-volume payroll cycles (e.g., month-end). Recurrent delivery drops in automated SMS One-Time Passwords (OTPs) completely disrupt user verification flows.
+* **Strategic Recommendation:** Architect an asynchronous queue management layer for high-traffic ledger settlements and establish a dual-token authentication fallback framework (e.g., secure push notifications) to circumvent cellular carrier SMS lag.
+
+#### 2. Bank of Abyssinia (BOA Mobile App)
+* **Core Satisfaction Drivers:** Exceptional feedback surrounding visual design patterns, intuitive dark-mode visual hierarchies, and a frictionless self-onboarding account creation wizard.
+* **Critical Operational Pain Points:** Extreme state-syncing discrepancies where successful fund transfers do not dynamically update the main dashboard view without a manual application force-quit. Users also cite overly aggressive security session timeouts that disrupt workflows mid-transaction.
+* **Strategic Recommendation:** Implement real-time reactive UI state-management listeners (e.g., WebSockets or persistent pooling) to continuously link the presentation layer with server ledger balances without hard application reboots.
+
+#### 3. Dashen Bank (Dashen Mobile / Amole)
+* **Core Satisfaction Drivers:** High consumer scores regarding merchant invoicing integration, versatility in point-of-sale retail discount tie-ins, and reliable mobile airtime top-up stability.
+* **Critical Operational Pain Points:** High error-matching failure rates in biometric components (fingerprint/face-unlock hardware crashes) alongside generic, uninformative server warnings (e.g., "Error 500") that offer no actionable path forward.
+* **Strategic Recommendation:** Re-engineer the biometric validation fallback state-machine to gracefully drop to a secure 4-digit PIN access window, and replace cryptic server raw stack errors with user-friendly descriptive tooltips.
 
 ## 📈 Executive Visualizations
 
@@ -166,6 +186,8 @@ The compiled outputs in the `notebooks/` directory track performance variations 
 
 ### 3. Model Sentiment Prediction Confidence Weights (Task 4)
 ![Sentiment Confidence vs Rating](notebooks/sentiment_confidence_vs_rating.png)
+
+
 
 ## 💻 Core Technologies
 
