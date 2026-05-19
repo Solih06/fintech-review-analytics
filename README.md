@@ -153,7 +153,6 @@ While the current DistilBERT model demonstrates high efficiency, the analysis pi
   Sarcasm and Contextual Blindness: Fine-grained sentiment layers can occasionally misinterpret contextual sarcasm (e.g., "Great app, it only crashes five times a day!") as positive feedback.
 
   Binary Sentiment Boundary: The core configuration maps data directly into binary categories (POSITIVE / NEGATIVE), which under-represents subtle, informational NEUTRAL feedback loops.
----
 
 ## 📈 Executive Performance Report & Analytical Insights (Task 4)
 
